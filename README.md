@@ -2,7 +2,7 @@
 
 Practise everyday and workplace English by texting with fictional AI characters. PersonaChat runs on your own computer, works with a free local model through [Ollama](https://ollama.com), and is built with C# and .NET 10.
 
-<!-- Demo GIF placeholder: add docs/demo.gif and show it here. -->
+![PersonaChat demo: searching for a character, chatting with a local model and spinning the email wheel](docs/demo.gif)
 
 ## Features
 
@@ -15,7 +15,17 @@ Practise everyday and workplace English by texting with fictional AI characters.
 - **Your choice of model.** Use a local Ollama model or a cloud provider.
 - **Double-click packages.** Builds for macOS and Windows need no .NET installation. Each person's history stays on their own computer.
 
-## Quick start
+## Download
+
+Get the zip for your system from the [latest release](https://github.com/Yunuskngl/PersonaChat/releases/latest). You also need [Ollama](https://ollama.com) and the default model:
+
+```bash
+ollama pull gemma3:4b
+```
+
+The Apple Silicon build has been tested end to end. The Intel Mac and Windows builds have not been run yet, so reports are very welcome.
+
+## Run from source
 
 You need the [.NET 10 SDK](https://dotnet.microsoft.com/download) and [Ollama](https://ollama.com).
 
@@ -116,4 +126,12 @@ People who use a package still need Ollama and a model. The characters and scena
 
 ## Built with
 
-.NET 10, ASP.NET Core minimal APIs, EF Core with SQLite, vanilla HTML, CSS and JavaScript, xUnit, and [QuestPDF](https://www.questpdf.com) under its Community license.
+.NET 10, ASP.NET Core minimal APIs, EF Core with SQLite, vanilla HTML, CSS and JavaScript, xUnit, and [QuestPDF](https://www.questpdf.com).
+
+## Contributing
+
+Contributions are welcome. Please open an issue to report a bug or discuss an idea, or send a pull request.
+
+## License
+
+PersonaChat is released under the [MIT License](LICENSE). PDF reports use QuestPDF under its own [Community license](https://www.questpdf.com/license/), which has revenue limits for commercial use.
