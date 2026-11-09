@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PersonaChat</title>
+  <link rel="stylesheet" href="app.css?v=3">
+  <script src="theme.js"></script>
+  <script type="module" src="js/app.js?v=2"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/">PersonaChat</a>
+    <nav class="nav" aria-label="Main">
+      <a href="#/" data-nav="home">Characters</a>
+      <a href="#/simulations" data-nav="simulations">Simulations</a>
+      <a href="#/email" data-nav="email">Email wheel</a>
+      <a href="#/reports" data-nav="reports">Reports</a>
+    </nav>
+    <button id="theme-toggle" class="text-button" type="button">Dark</button>
+  </header>
+  <p id="notice" class="notice" role="status" hidden></p>
+
+  <main id="view-home" class="page" hidden>
+    <h1>Who do you want to talk to?</h1>
+    <p class="lead">Meet someone new and practise real conversation. Each character remembers only what you told them.</p>
+    <div class="toolbar">
+      <input id="persona-search" class="search" type="search" placeholder="Search by name, country, job or interest…" aria-label="Search characters" maxlength="60">
+    </div>
+    <div id="cards" class="cards"></div>
+    <p id="cards-empty" class="muted-line" hidden>No characters match your search.</p>
+    <p id="home-error" class="error" role="alert" hidden></p>
+    <p class="disclosure">All characters are fictional and powered by AI.</p>
+  </main>
+
+  <main id="view-simulations" class="page" hidden>
+    <h1>Workplace simulations</h1>
+    <p class="lead">Someone sends you a message or asks you a question. Reply, keep going, and get a teacher's report when you finish.</p>
+    <div class="toolbar">
+      <select id="sim-category" aria-label="Category"></select>
+      <button id="sim-random" class="send" type="button">Random scenario</button>
+    </div>
+    <div id="sim-list" class="sim-grid"></div>
+    <p id="sim-error" class="error" role="alert" hidden></p>
+  </main>
+
+  <main id="view-email" class="page" hidden>
+    <h1>Email wheel</h1>
+    <p class="lead">Spin the wheel, get a workplace situation, and write the email. Your report will show how a native speaker would have written it.</p>
+    <div class="wheel-layout">
+      <div class="wheel-column">
+        <div class="wheel-box">
+          <div class="wheel-pointer" aria-hidden="true"></div>
+          <svg id="wheel" class="wheel" viewBox="-100 -100 200 200" role="img" aria-label="Scenario wheel"></svg>
+          <div id="wheel-number" class="wheel-number">?</div>
+        </div>
+        <button id="wheel-spin" class="send" type="button">Spin the wheel</button>
+      </div>
+      <form id="email-form" class="email-form" hidden>
+        <p id="email-category" class="eyebrow"></p>
+        <h2 id="email-title"></h2>
+        <p id="email-situation"></p>
+        <p id="email-task" class="strong"></p>
+        <p class="email-to">To: <span id="email-to"></span></p>
+        <input id="email-subject" type="text" placeholder="Subject" aria-label="Subject" maxlength="150">
+        <textarea id="email-body" rows="11" placeholder="Write your email here…" aria-label="Email"></textarea>
+        <p id="email-error" class="error" role="alert" hidden></p>
+        <button id="email-send" class="send" type="submit">Send and get report</button>
+      </form>
+    </div>
+  </main>
+
+  <main id="view-reports" class="page" hidden>
+    <h1>Your reports</h1>
+    <p class="lead">Every conversation, simulation and email you finish is reviewed here.</p>
+    <div id="report-list" class="report-list"></div>
+    <p id="reports-error" class="error" role="alert" hidden></p>
+  </main>
+
+  <main id="view-report" class="page narrow" hidden>
+    <a class="text-button" href="#/reports">All reports</a>
+    <div id="report-body"></div>
+    <p id="report-error" class="error" role="alert" hidden></p>
+  </main>
+
+  <section id="view-chat" class="chat" hidden>
+    <div class="chat-head">
+      <a id="chat-back" class="back" href="#/" aria-label="Back">←</a>
+      <div class="chat-title">
+        <h2 id="chat-name"></h2>
+        <p id="chat-meta"></p>
+      </div>
+      <div id="tools-persona" class="chat-tools">
+        <div class="modes" role="group" aria-label="Conversation mode">
+          <button type="button" data-mode="chat" aria-pressed="true">Chat</button>
+          <button type="button" data-mode="ask" aria-pressed="false">Ask</button>
+        </div>
+        <button id="memory-open" class="text-button" type="button">Memory</button>
+        <button id="reset-open" class="text-button" type="button">Reset</button>
+      </div>
+      <div id="tools-sim" class="chat-tools" hidden>
+        <button id="sim-end" class="send small" type="button">Finish and get report</button>
+      </div>
+    </div>
+
+    <p id="chat-brief" class="brief" hidden></p>
+    <div id="log" class="log" role="log" aria-live="polite"></div>
+
+    <form id="composer" class="composer">
+      <p id="chat-error" class="error" role="alert" hidden></p>
+      <div class="composer-row">
+        <textarea id="input" rows="1" placeholder="Write in English…" aria-label="Your message"></textarea>
+        <button id="send" class="send" type="submit">Send</button>
+      </div>
+    </form>
+  </section>
+
+  <dialog id="memory-dialog">
+    <h3>What <span id="memory-name"></span> remembers</h3>
+    <ul id="memory-list"></ul>
+    <p id="memory-empty" hidden>Nothing yet. Notes appear after about ten exchanges.</p>
+    <div class="dialog-actions">
+      <button id="memory-close" class="text-button" type="button">Close</button>
+    </div>
+  </dialog>
+
+  <dialog id="reset-dialog">
+    <h3>Start over?</h3>
+    <p>This deletes the conversation and memory for this character. Your reports are kept. It cannot be undone.</p>
+    <div class="dialog-actions">
+      <button id="reset-cancel" class="text-button" type="button">Cancel</button>
+      <button id="reset-confirm" class="send" type="button">Delete</button>
+    </div>
+  </dialog>
+</body>
+</html>

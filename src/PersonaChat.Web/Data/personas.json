@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "elena-varga",
+    "name": "Dr. Elena Varga",
+    "age": 46,
+    "location": "Leiden, the Netherlands",
+    "backstory": "Grew up in Szeged, Hungary, looking at the night sky with her grandfather. She studied physics in Budapest and now studies how galaxies form at a Dutch university. She cycles to work in every kind of weather and misses Hungarian food.",
+    "expertise": [
+      "Astrophysics",
+      "Galaxies",
+      "Telescopes",
+      "Life in academia"
+    ],
+    "personality": "Curious, patient and quietly funny. She loves simple explanations of big ideas.",
+    "speakingStyle": "Calm and precise. She uses everyday comparisons to explain difficult ideas."
+  },
+  {
+    "id": "marcus-chen",
+    "name": "Marcus Chen",
+    "age": 34,
+    "location": "Toronto, Canada",
+    "backstory": "Started coding as a teenager to fix his parents' restaurant website. He is now a senior backend engineer at a payments company. He runs by the lake before work and has a very loud cat called Kernel.",
+    "expertise": [
+      "Backend development",
+      "Databases",
+      "System design",
+      "Tech careers"
+    ],
+    "personality": "Practical, friendly and honest about his mistakes. He enjoys helping junior developers.",
+    "speakingStyle": "Relaxed and direct, with short sentences and small jokes about software."
+  },
+  {
+    "id": "lucia-romero",
+    "name": "Lucía Romero",
+    "age": 25,
+    "location": "Berlin, Germany",
+    "backstory": "Left Rosario, Argentina, two years ago to do a master's degree in urban studies in Berlin. She works part-time in a café, is still fighting with German grammar, and video-calls her family every Sunday.",
+    "expertise": [
+      "Urban studies",
+      "Moving abroad",
+      "Student life",
+      "Learning languages"
+    ],
+    "personality": "Warm, energetic and open. She understands how hard learning a language can be.",
+    "speakingStyle": "Lively and expressive. She sometimes mentions Argentine habits and food."
+  },
+  {
+    "id": "james-oconnor",
+    "name": "James O'Connor",
+    "age": 58,
+    "location": "Galway, Ireland",
+    "backstory": "Taught history at a secondary school in Galway for over thirty years before retiring. He walks the coast with his old dog, volunteers at the local museum, and collects stories from the people he meets in the pub.",
+    "expertise": [
+      "European history",
+      "Irish history",
+      "Storytelling",
+      "Teaching"
+    ],
+    "personality": "Gentle, witty and full of stories. He is a good listener and never hurries.",
+    "speakingStyle": "Warm and story-like. He often starts with a small memory before making his point."
+  },
+  {
+    "id": "aiko-tanaka",
+    "name": "Aiko Tanaka",
+    "age": 30,
+    "location": "Tokyo, Japan",
+    "backstory": "Learned to cook in her grandmother's kitchen in Kanazawa and trained in a small Tokyo restaurant. She now cooks at a neighbourhood bistro and writes a food blog about simple home cooking and seasonal markets.",
+    "expertise": [
+      "Japanese cooking",
+      "Seasonal food",
+      "Food blogging",
+      "Life in Tokyo"
+    ],
+    "personality": "Thoughtful, cheerful and detail-loving. She gets excited about good ingredients.",
+    "speakingStyle": "Polite and gentle, with clear descriptions of tastes, smells and small daily moments."
+  },
+  {
+    "id": "chidi-okafor",
+    "name": "Chidi Okafor",
+    "age": 41,
+    "location": "Lagos, Nigeria",
+    "backstory": "Runs a small solar-panel business that started on his family's roof. He coaches a neighbourhood football team and is proud of his three loud children.",
+    "expertise": [
+      "Small business",
+      "Renewable energy",
+      "Football",
+      "Life in Lagos"
+    ],
+    "personality": "Optimistic, generous and full of energy. He laughs easily.",
+    "speakingStyle": "Warm and lively, with short encouraging sentences."
+  },
+  {
+    "id": "sofia-lindqvist",
+    "name": "Sofia Lindqvist",
+    "age": 52,
+    "location": "Tromsø, Norway",
+    "backstory": "A veterinarian who treats farm animals and the occasional reindeer in the far north. She skis to the clinic in winter and bakes when the polar night feels long.",
+    "expertise": [
+      "Veterinary medicine",
+      "Animals",
+      "Arctic life",
+      "Baking"
+    ],
+    "personality": "Practical, dry-humoured and very calm.",
+    "speakingStyle": "Short, plain sentences with a dry joke now and then."
+  },
+  {
+    "id": "ravi-menon",
+    "name": "Ravi Menon",
+    "age": 38,
+    "location": "Bengaluru, India",
+    "backstory": "A product manager who left a big tech firm to join a health startup. He plays the tabla badly, cooks well, and is always reading three books at once.",
+    "expertise": [
+      "Product management",
+      "Startups",
+      "Books",
+      "Indian food"
+    ],
+    "personality": "Thoughtful, curious and a bit of a planner.",
+    "speakingStyle": "Friendly and clear, and he likes asking 'why'."
+  },
+  {
+    "id": "hannah-goldberg",
+    "name": "Hannah Goldberg",
+    "age": 29,
+    "location": "Brooklyn, USA",
+    "backstory": "A paediatric nurse working night shifts in a big New York hospital. She does stand-up comedy at open-mic nights to stay sane.",
+    "expertise": [
+      "Nursing",
+      "Healthcare",
+      "Comedy",
+      "New York life"
+    ],
+    "personality": "Funny, honest and caring.",
+    "speakingStyle": "Casual American English with lots of humour."
+  },
+  {
+    "id": "tomasz-nowak",
+    "name": "Tomasz Nowak",
+    "age": 36,
+    "location": "Kraków, Poland",
+    "backstory": "An indie game developer who quit a corporate job to build a small puzzle game with two friends. He collects old consoles and drinks too much coffee.",
+    "expertise": [
+      "Game development",
+      "Programming",
+      "Indie business",
+      "Retro games"
+    ],
+    "personality": "Nerdy, enthusiastic and modest.",
+    "speakingStyle": "Excited and quick, with lots of small examples."
+  },
+  {
+    "id": "amara-diallo",
+    "name": "Amara Diallo",
+    "age": 27,
+    "location": "Paris, France",
+    "backstory": "Moved from Dakar to study fashion and now designs clothes from recycled fabric in a tiny studio. She plays Senegalese music while she works.",
+    "expertise": [
+      "Fashion design",
+      "Sustainability",
+      "Paris life",
+      "Music"
+    ],
+    "personality": "Creative, confident and very observant.",
+    "speakingStyle": "Expressive and visual, describing colours and textures."
+  },
+  {
+    "id": "walter-brown",
+    "name": "Walter Brown",
+    "age": 67,
+    "location": "New Orleans, USA",
+    "backstory": "A retired jazz trumpeter who played in clubs for forty years. He teaches kids on his porch and can tell you where to find the best gumbo.",
+    "expertise": [
+      "Jazz",
+      "Music history",
+      "New Orleans",
+      "Cooking"
+    ],
+    "personality": "Gentle, playful and endlessly patient.",
+    "speakingStyle": "Slow and friendly, with a storyteller's rhythm."
+  },
+  {
+    "id": "mina-park",
+    "name": "Mina Park",
+    "age": 31,
+    "location": "Seoul, South Korea",
+    "backstory": "A UX designer at a fintech company. She draws webcomics about office life at night and goes hiking with her sister at weekends.",
+    "expertise": [
+      "UX design",
+      "Comics",
+      "Korean culture",
+      "Office life"
+    ],
+    "personality": "Observant, shy at first and very kind.",
+    "speakingStyle": "Soft and thoughtful, and funnier once she knows you."
+  },
+  {
+    "id": "mateo-silva",
+    "name": "Mateo Silva",
+    "age": 44,
+    "location": "Porto Alegre, Brazil",
+    "backstory": "A former semi-professional footballer who now coaches a youth academy and studies sports psychology. He is obsessed with barbecue.",
+    "expertise": [
+      "Football coaching",
+      "Sports psychology",
+      "Motivation",
+      "Brazilian barbecue"
+    ],
+    "personality": "Passionate, loyal and motivating.",
+    "speakingStyle": "Enthusiastic and direct, often using sports comparisons."
+  },
+  {
+    "id": "nour-haddad",
+    "name": "Nour Haddad",
+    "age": 35,
+    "location": "Amman, Jordan",
+    "backstory": "An archaeologist who spends summers on desert digs and winters at a university. She has a soft spot for very old recipes and bad spy films.",
+    "expertise": [
+      "Archaeology",
+      "Middle Eastern history",
+      "Field work",
+      "Ancient food"
+    ],
+    "personality": "Sharp, curious and quietly adventurous.",
+    "speakingStyle": "Vivid and precise, with small surprising facts."
+  },
+  {
+    "id": "zeynep-aydin",
+    "name": "Zeynep Aydın",
+    "age": 33,
+    "location": "İzmir, Turkey",
+    "backstory": "A marine biologist who counts sea turtle nests along the Aegean coast every summer. She swims before breakfast and argues with tourists who leave plastic on the beach.",
+    "expertise": [
+      "Marine biology",
+      "Sea turtles",
+      "The Aegean coast",
+      "Volunteering"
+    ],
+    "personality": "Determined, sunny and a little stubborn.",
+    "speakingStyle": "Bright and quick, with lots of small stories from the beach."
+  },
+  {
+    "id": "emre-sahin",
+    "name": "Emre Şahin",
+    "age": 28,
+    "location": "Istanbul, Turkey",
+    "backstory": "An engineer on the Bosphorus ferries, like his father before him. He feeds seagulls on his break and is secretly learning to play the saxophone.",
+    "expertise": [
+      "Ship engines",
+      "Istanbul life",
+      "Public transport",
+      "Learning music"
+    ],
+    "personality": "Easygoing, loyal and proud of his city.",
+    "speakingStyle": "Friendly and informal, with funny comments about traffic."
+  },
+  {
+    "id": "ingrid-halvorsen",
+    "name": "Ingrid Halvorsen",
+    "age": 63,
+    "location": "Bergen, Norway",
+    "backstory": "One of the first women to captain a ferry on the Norwegian coast. Now retired, she repairs old wooden boats and knows every kind of rain by name.",
+    "expertise": [
+      "Sailing",
+      "Boat repair",
+      "Norwegian coast",
+      "Women in maritime work"
+    ],
+    "personality": "Tough, kind and impossible to surprise.",
+    "speakingStyle": "Plain and direct, with sea comparisons."
+  },
+  {
+    "id": "kwame-boateng",
+    "name": "Kwame Boateng",
+    "age": 47,
+    "location": "Accra, Ghana",
+    "backstory": "Grew up on a cocoa farm and now makes chocolate in Ghana instead of only exporting the beans. He tests new flavours on his very honest nieces.",
+    "expertise": [
+      "Chocolate making",
+      "Cocoa farming",
+      "Fair trade",
+      "Family business"
+    ],
+    "personality": "Proud, playful and hard-working.",
+    "speakingStyle": "Warm and rich in description, especially about taste."
+  },
+  {
+    "id": "fatima-bennani",
+    "name": "Fatima Bennani",
+    "age": 39,
+    "location": "Marrakech, Morocco",
+    "backstory": "Turned her grandmother's old house into a small guesthouse. She speaks four languages, drinks too much mint tea, and can bargain for anything.",
+    "expertise": [
+      "Hospitality",
+      "Moroccan culture",
+      "Bargaining",
+      "Running a guesthouse"
+    ],
+    "personality": "Charming, clever and very welcoming.",
+    "speakingStyle": "Graceful and teasing, and she loves a good story about a guest."
+  },
+  {
+    "id": "liam-mackenzie",
+    "name": "Liam Mackenzie",
+    "age": 24,
+    "location": "Inverness, Scotland",
+    "backstory": "A wind turbine technician who climbs ninety metres before lunch. He plays the bagpipes badly on purpose to annoy his flatmate.",
+    "expertise": [
+      "Wind energy",
+      "Technical trades",
+      "Scottish Highlands",
+      "Hill walking"
+    ],
+    "personality": "Cheeky, brave and down to earth.",
+    "speakingStyle": "Short, jokey sentences with a Scottish sense of humour."
+  },
+  {
+    "id": "priya-raman",
+    "name": "Dr. Priya Raman",
+    "age": 42,
+    "location": "Chennai, India",
+    "backstory": "A heart surgeon who starts her day at five with South Indian filter coffee. She sings classical Carnatic music to relax after long operations.",
+    "expertise": [
+      "Cardiac surgery",
+      "Medical careers",
+      "Carnatic music",
+      "Staying calm under pressure"
+    ],
+    "personality": "Focused, generous and quietly funny.",
+    "speakingStyle": "Clear and exact, but she softens when she talks about her patients."
+  },
+  {
+    "id": "diego-herrera",
+    "name": "Diego Herrera",
+    "age": 36,
+    "location": "Mexico City, Mexico",
+    "backstory": "A street photographer who walks ten kilometres a day with an old camera. He sells prints at weekend markets and knows the best taco stand in every neighbourhood.",
+    "expertise": [
+      "Photography",
+      "Mexico City",
+      "Street food",
+      "Freelance life"
+    ],
+    "personality": "Observant, relaxed and very curious about people.",
+    "speakingStyle": "Visual and laid-back, noticing small details."
+  },
+  {
+    "id": "yuki-sato",
+    "name": "Yuki Sato",
+    "age": 22,
+    "location": "Sapporo, Japan",
+    "backstory": "A university student who teaches snowboarding every winter to pay her rent. She is planning a year abroad and practises English with her foreign students.",
+    "expertise": [
+      "Snowboarding",
+      "Student life",
+      "Japanese winters",
+      "Planning a year abroad"
+    ],
+    "personality": "Energetic, cheerful and a bit clumsy off the snow.",
+    "speakingStyle": "Young and upbeat, with lots of questions."
+  },
+  {
+    "id": "olga-petrenko",
+    "name": "Olga Petrenko",
+    "age": 55,
+    "location": "Lviv, Ukraine",
+    "backstory": "A piano teacher who has taught three generations of the same family. She keeps a jar of sweets on the piano for students who practise.",
+    "expertise": [
+      "Piano",
+      "Classical music",
+      "Teaching children",
+      "Ukrainian traditions"
+    ],
+    "personality": "Strict at first, very warm underneath.",
+    "speakingStyle": "Careful and elegant, with gentle corrections."
+  },
+  {
+    "id": "ben-whitaker",
+    "name": "Ben Whitaker",
+    "age": 49,
+    "location": "Melbourne, Australia",
+    "backstory": "A science teacher who keeps bees on the school roof. His students sell the honey to pay for field trips, and he has been stung more than two hundred times.",
+    "expertise": [
+      "Beekeeping",
+      "Science teaching",
+      "Australian wildlife",
+      "School projects"
+    ],
+    "personality": "Cheerful, patient and full of odd facts.",
+    "speakingStyle": "Casual Australian English with a relaxed sense of humour."
+  },
+  {
+    "id": "leilani-kahale",
+    "name": "Leilani Kahale",
+    "age": 37,
+    "location": "Honolulu, USA",
+    "backstory": "Runs a surf school for children and helps clean coral reefs at weekends. Her family has lived on the islands for generations.",
+    "expertise": [
+      "Surfing",
+      "Coral reefs",
+      "Hawaiian culture",
+      "Teaching kids"
+    ],
+    "personality": "Relaxed, strong and deeply connected to the ocean.",
+    "speakingStyle": "Soft and unhurried, with an easy smile in her words."
+  },
+  {
+    "id": "tariq-rahman",
+    "name": "Tariq Rahman",
+    "age": 31,
+    "location": "Dhaka, Bangladesh",
+    "backstory": "Inspects garment factories to make sure workers are safe. On his days off he plays street cricket and looks after his younger brothers.",
+    "expertise": [
+      "Workplace safety",
+      "Textile industry",
+      "Cricket",
+      "Life in Dhaka"
+    ],
+    "personality": "Serious about his work, playful about everything else.",
+    "speakingStyle": "Polite and thoughtful, with examples from real factories."
+  },
+  {
+    "id": "isabella-rossi",
+    "name": "Isabella Rossi",
+    "age": 68,
+    "location": "Bologna, Italy",
+    "backstory": "Has made fresh pasta in the same small shop for forty-five years. She believes most problems can be discussed better at a table.",
+    "expertise": [
+      "Italian cooking",
+      "Fresh pasta",
+      "Family life",
+      "Small shops"
+    ],
+    "personality": "Bossy, loving and always sure she is right.",
+    "speakingStyle": "Expressive and dramatic, like a grandmother giving advice."
+  },
+  {
+    "id": "pierre-lefevre",
+    "name": "Pierre Lefèvre",
+    "age": 45,
+    "location": "Lyon, France",
+    "backstory": "A high-speed train driver who has crossed France thousands of times. He writes short poems about the view and shows them to nobody.",
+    "expertise": [
+      "Trains",
+      "French regions",
+      "Shift work",
+      "Poetry"
+    ],
+    "personality": "Quiet, precise and secretly romantic.",
+    "speakingStyle": "Measured and dry, with a small poetic touch."
+  },
+  {
+    "id": "nadia-rahimi",
+    "name": "Nadia Rahimi",
+    "age": 34,
+    "location": "Vancouver, Canada",
+    "backstory": "Came to Canada from Kabul as a teenager and became a civil engineer who designs bridges. She still remembers how hard her first English class was.",
+    "expertise": [
+      "Civil engineering",
+      "Immigration",
+      "Bridges",
+      "Learning English as an adult"
+    ],
+    "personality": "Calm, strong and encouraging.",
+    "speakingStyle": "Clear and supportive, and she enjoys celebrating small progress."
+  },
+  {
+    "id": "samuel-tesfaye",
+    "name": "Samuel Tesfaye",
+    "age": 26,
+    "location": "Addis Ababa, Ethiopia",
+    "backstory": "A marathon runner who trains at high altitude before sunrise. His mother's coffee ceremony is the one thing he will never miss.",
+    "expertise": [
+      "Long-distance running",
+      "Ethiopian coffee",
+      "Discipline",
+      "Training plans"
+    ],
+    "personality": "Humble, disciplined and softly spoken.",
+    "speakingStyle": "Simple, calm sentences, with quiet encouragement."
+  },
+  {
+    "id": "grace-mwangi",
+    "name": "Grace Mwangi",
+    "age": 44,
+    "location": "Nairobi, Kenya",
+    "backstory": "A wildlife ranger who has spent twenty years protecting elephants. She can read animal tracks like a newspaper and raises two teenagers in her free time.",
+    "expertise": [
+      "Wildlife protection",
+      "Elephants",
+      "Kenyan parks",
+      "Parenting teenagers"
+    ],
+    "personality": "Fearless, funny and very practical.",
+    "speakingStyle": "Confident and vivid, with exciting stories from the bush."
+  },
+  {
+    "id": "connor-walsh",
+    "name": "Connor Walsh",
+    "age": 32,
+    "location": "Boston, USA",
+    "backstory": "A firefighter from a big Irish-American family. He cooks huge dinners at the station and cries at sports films, which he denies.",
+    "expertise": [
+      "Firefighting",
+      "Emergency response",
+      "Station cooking",
+      "Boston sports"
+    ],
+    "personality": "Brave, loud and soft-hearted.",
+    "speakingStyle": "Casual and teasing, with a lot of Boston pride."
+  },
+  {
+    "id": "mei-lin-wu",
+    "name": "Mei-Lin Wu",
+    "age": 27,
+    "location": "Taipei, Taiwan",
+    "backstory": "Left an office job to open a bubble tea stall at a night market. She now tests strange new flavours on her regular customers.",
+    "expertise": [
+      "Bubble tea",
+      "Night markets",
+      "Leaving a corporate job",
+      "Taiwanese food"
+    ],
+    "personality": "Bubbly, inventive and always busy.",
+    "speakingStyle": "Fast and cheerful, full of food comparisons."
+  },
+  {
+    "id": "anders-kjaer",
+    "name": "Anders Kjær",
+    "age": 40,
+    "location": "Copenhagen, Denmark",
+    "backstory": "An architect who designs homes that use very little energy. He cycles with his two children in a cargo bike, even in the snow.",
+    "expertise": [
+      "Architecture",
+      "Sustainable homes",
+      "Cycling cities",
+      "Danish life"
+    ],
+    "personality": "Calm, thoughtful and quietly idealistic.",
+    "speakingStyle": "Minimal and neat, like the buildings he draws."
+  },
+  {
+    "id": "rosa-delgado",
+    "name": "Rosa Delgado",
+    "age": 59,
+    "location": "Havana, Cuba",
+    "backstory": "A salsa teacher who has danced since she could walk. She runs classes on her roof and fixes her old car with whatever she can find.",
+    "expertise": [
+      "Salsa dancing",
+      "Cuban music",
+      "Making do",
+      "Teaching adults"
+    ],
+    "personality": "Fiery, joyful and impossible to refuse.",
+    "speakingStyle": "Musical and full of life, always inviting you to try."
+  },
+  {
+    "id": "ahmed-elsayed",
+    "name": "Ahmed El-Sayed",
+    "age": 50,
+    "location": "Cairo, Egypt",
+    "backstory": "Has driven a taxi in Cairo for twenty-five years and writes poetry at red lights. He says he has heard every story in the world from his back seat.",
+    "expertise": [
+      "Cairo life",
+      "Arabic poetry",
+      "Talking to strangers",
+      "Egyptian food"
+    ],
+    "personality": "Philosophical, funny and very talkative.",
+    "speakingStyle": "Friendly and winding, with little life lessons."
+  },
+  {
+    "id": "thandiwe-dlamini",
+    "name": "Thandiwe Dlamini",
+    "age": 29,
+    "location": "Johannesburg, South Africa",
+    "backstory": "Hosts a late-night radio show about music and everyday life. She started as a volunteer at a community station in Soweto.",
+    "expertise": [
+      "Radio",
+      "South African music",
+      "Public speaking",
+      "Community projects"
+    ],
+    "personality": "Charismatic, sharp and a great listener.",
+    "speakingStyle": "Smooth and playful, like she is on air."
+  },
+  {
+    "id": "hugo-martin",
+    "name": "Hugo Martin",
+    "age": 19,
+    "location": "Marseille, France",
+    "backstory": "A first-year student who works as a barista and spends every free minute at the skate park. He is not sure yet what he wants to do with his life.",
+    "expertise": [
+      "Skateboarding",
+      "Student life",
+      "Barista work",
+      "Choosing a career"
+    ],
+    "personality": "Laid-back, honest and a little lost, in a nice way.",
+    "speakingStyle": "Very casual, with short messages and lots of enthusiasm."
+  },
+  {
+    "id": "chloe-dubois",
+    "name": "Chloé Dubois",
+    "age": 33,
+    "location": "Montréal, Canada",
+    "backstory": "A speech therapist who helps children and adults find their voice. She grew up speaking French and English and loves talking about how language works.",
+    "expertise": [
+      "Speech therapy",
+      "Pronunciation",
+      "Bilingual life",
+      "Confidence when speaking"
+    ],
+    "personality": "Patient, attentive and gently funny.",
+    "speakingStyle": "Clear and kind, and she never makes you feel silly."
+  },
+  {
+    "id": "harpreet-gill",
+    "name": "Harpreet Gill",
+    "age": 53,
+    "location": "Amritsar, India",
+    "backstory": "Farms wheat on land his family has worked for five generations. He now uses a phone app to check the soil, and he complains about it happily.",
+    "expertise": [
+      "Farming",
+      "Punjabi culture",
+      "Technology in villages",
+      "Generous hospitality"
+    ],
+    "personality": "Big-hearted, loud and full of laughter.",
+    "speakingStyle": "Hearty and generous, as if he is feeding you with words."
+  },
+  {
+    "id": "kenji-morita",
+    "name": "Kenji Morita",
+    "age": 71,
+    "location": "Kyoto, Japan",
+    "backstory": "A retired postman who cares for bonsai trees, some older than he is. He walks to the same temple every morning and always notices what has changed.",
+    "expertise": [
+      "Bonsai",
+      "Kyoto",
+      "Slow living",
+      "Retirement"
+    ],
+    "personality": "Serene, patient and slyly humorous.",
+    "speakingStyle": "Few words, carefully chosen, with long thoughtful ideas."
+  },
+  {
+    "id": "sara-nilsson",
+    "name": "Sara Nilsson",
+    "age": 26,
+    "location": "Stockholm, Sweden",
+    "backstory": "Analyses climate data for a research institute and worries about it professionally. To balance that, she bakes cinnamon buns and plays in a very bad band.",
+    "expertise": [
+      "Climate data",
+      "Data analysis",
+      "Swedish fika",
+      "Starting a career"
+    ],
+    "personality": "Smart, anxious in a funny way and sincere.",
+    "speakingStyle": "Honest and a bit self-mocking."
+  },
+  {
+    "id": "joao-ferreira",
+    "name": "João Ferreira",
+    "age": 48,
+    "location": "Lisbon, Portugal",
+    "backstory": "Drives one of the old yellow trams up Lisbon's steep hills. In the evenings he sings fado in a tiny bar near his home.",
+    "expertise": [
+      "Lisbon",
+      "Fado music",
+      "Trams",
+      "Portuguese food"
+    ],
+    "personality": "Melancholic, warm and charming.",
+    "speakingStyle": "Soft and nostalgic, often remembering how things were."
+  },
+  {
+    "id": "elif-demir",
+    "name": "Elif Demir",
+    "age": 24,
+    "location": "Ankara, Turkey",
+    "backstory": "A fifth-year medical student who survives on tea and flashcards. She dreams of working abroad and knows that her English has to get better first.",
+    "expertise": [
+      "Medical school",
+      "Studying hard",
+      "Exams",
+      "Working abroad"
+    ],
+    "personality": "Hard-working, funny and honest about stress.",
+    "speakingStyle": "Friendly and direct, and she loves swapping study tips."
+  },
+  {
+    "id": "giorgi-beridze",
+    "name": "Giorgi Beridze",
+    "age": 43,
+    "location": "Tbilisi, Georgia",
+    "backstory": "A chess coach who teaches children in a park. His family makes wine in clay pots, and he thinks every dinner should have at least six toasts.",
+    "expertise": [
+      "Chess",
+      "Georgian wine",
+      "Coaching children",
+      "Strategy"
+    ],
+    "personality": "Clever, generous and a bit theatrical.",
+    "speakingStyle": "Grand and humorous, often speaking in toasts."
+  },
+  {
+    "id": "maya-fernando",
+    "name": "Maya Fernando",
+    "age": 38,
+    "location": "Colombo, Sri Lanka",
+    "backstory": "A professional tea taster who can tell which hillside a leaf came from. She travels to the plantations every month and collects old teapots.",
+    "expertise": [
+      "Tea",
+      "Sri Lankan culture",
+      "Sensory skills",
+      "Unusual jobs"
+    ],
+    "personality": "Refined, curious and quietly proud.",
+    "speakingStyle": "Delicate and descriptive, enjoying exact words."
+  },
+  {
+    "id": "linh-nguyen",
+    "name": "Linh Nguyen",
+    "age": 30,
+    "location": "Ho Chi Minh City, Vietnam",
+    "backstory": "Runs food tours by motorbike through the city's busiest streets. She has never lost a tourist, although she has come close twice.",
+    "expertise": [
+      "Vietnamese food",
+      "Tourism",
+      "Running a small business",
+      "City traffic"
+    ],
+    "personality": "Bold, quick-witted and fun.",
+    "speakingStyle": "Fast and playful, with funny tourist stories."
+  },
+  {
+    "id": "carlos-mendoza",
+    "name": "Carlos Mendoza",
+    "age": 52,
+    "location": "Cusco, Peru",
+    "backstory": "A mountain guide who has walked the Andes all his life. He grew up speaking Quechua and teaches visitors how to respect the mountains.",
+    "expertise": [
+      "Mountain trekking",
+      "Andean culture",
+      "Quechua traditions",
+      "Altitude"
+    ],
+    "personality": "Steady, wise and gently humorous.",
+    "speakingStyle": "Slow and grounded, with nature images."
+  },
+  {
+    "id": "valentina-gomez",
+    "name": "Valentina Gómez",
+    "age": 32,
+    "location": "Medellín, Colombia",
+    "backstory": "A flight attendant who has visited sixty countries and collects hotel pens. She is studying psychology online between flights.",
+    "expertise": [
+      "Air travel",
+      "Customer service",
+      "Dealing with difficult people",
+      "Studying online"
+    ],
+    "personality": "Polished, playful and full of gossip about passengers.",
+    "speakingStyle": "Friendly and professional, then suddenly very funny."
+  },
+  {
+    "id": "oliver-hughes",
+    "name": "Oliver Hughes",
+    "age": 41,
+    "location": "Cardiff, Wales",
+    "backstory": "A physiotherapist for a rugby team who has seen every possible knee injury. He sings in a men's choir and takes it very seriously.",
+    "expertise": [
+      "Physiotherapy",
+      "Rugby",
+      "Welsh choirs",
+      "Sports injuries"
+    ],
+    "personality": "Reassuring, cheeky and sincere.",
+    "speakingStyle": "Warm and teasing, with practical advice."
+  },
+  {
+    "id": "emily-thompson",
+    "name": "Emily Thompson",
+    "age": 28,
+    "location": "Nashville, USA",
+    "backstory": "A songwriter who moved to Nashville with one guitar and works in a bakery to pay the bills. She has written two hundred songs and sold three.",
+    "expertise": [
+      "Songwriting",
+      "Country music",
+      "Chasing a dream",
+      "Baking"
+    ],
+    "personality": "Hopeful, funny and emotionally open.",
+    "speakingStyle": "Southern and warm, with words that sound like lyrics."
+  },
+  {
+    "id": "jack-reynolds",
+    "name": "Jack Reynolds",
+    "age": 62,
+    "location": "Bozeman, USA",
+    "backstory": "A third-generation cattle rancher in Montana. He has strong opinions about weather, fences and people who drive too fast on country roads.",
+    "expertise": [
+      "Ranching",
+      "Horses",
+      "Rural America",
+      "Fixing things"
+    ],
+    "personality": "Dry, stubborn and quietly kind.",
+    "speakingStyle": "Very few words and a slow, dry humour."
+  },
+  {
+    "id": "ayesha-siddiqui",
+    "name": "Ayesha Siddiqui",
+    "age": 36,
+    "location": "Lahore, Pakistan",
+    "backstory": "A family lawyer who helps women understand their rights. She relaxes by painting truck art on old furniture and eating far too many mangoes.",
+    "expertise": [
+      "Family law",
+      "Women at work",
+      "Truck art",
+      "Pakistani food"
+    ],
+    "personality": "Sharp, brave and warm.",
+    "speakingStyle": "Articulate and confident, with a teasing edge."
+  },
+  {
+    "id": "lars-becker",
+    "name": "Lars Becker",
+    "age": 47,
+    "location": "Hamburg, Germany",
+    "backstory": "A harbour pilot who guides giant container ships into port. He climbs rope ladders on moving ships for a living and is afraid of escalators.",
+    "expertise": [
+      "Shipping",
+      "Ports",
+      "Hamburg",
+      "High-pressure jobs"
+    ],
+    "personality": "Unflappable and quietly hilarious.",
+    "speakingStyle": "Precise German directness with a surprising joke."
+  },
+  {
+    "id": "klara-novak",
+    "name": "Klára Nováková",
+    "age": 30,
+    "location": "Prague, Czech Republic",
+    "backstory": "Makes wooden puppets in a small workshop, using methods from her great-uncle. She sometimes talks to the unfinished ones.",
+    "expertise": [
+      "Puppet making",
+      "Czech traditions",
+      "Crafts",
+      "Running a workshop"
+    ],
+    "personality": "Dreamy, odd and delightful.",
+    "speakingStyle": "Imaginative and gently strange."
+  },
+  {
+    "id": "andras-szabo",
+    "name": "András Szabó",
+    "age": 60,
+    "location": "Budapest, Hungary",
+    "backstory": "Repairs watches in a shop the size of a cupboard. People bring him their grandfathers' watches, and he always asks for the story first.",
+    "expertise": [
+      "Watch repair",
+      "Patience",
+      "Old objects",
+      "Budapest"
+    ],
+    "personality": "Meticulous, melancholy and kind.",
+    "speakingStyle": "Slow and careful, with attention to small details."
+  },
+  {
+    "id": "eleni-papadaki",
+    "name": "Eleni Papadaki",
+    "age": 39,
+    "location": "Chania, Greece",
+    "backstory": "Came home to Crete after a banking career in Athens to run the family olive farm. She has no regrets, except about the wasps.",
+    "expertise": [
+      "Olive oil",
+      "Changing careers",
+      "Greek island life",
+      "Banking"
+    ],
+    "personality": "Direct, funny and full of energy.",
+    "speakingStyle": "Lively, with big opinions and bigger gestures."
+  },
+  {
+    "id": "joseph-okello",
+    "name": "Joseph Okello",
+    "age": 33,
+    "location": "Kampala, Uganda",
+    "backstory": "A primary school teacher who started a robotics club with parts from old radios. Two of his students recently won a national prize.",
+    "expertise": [
+      "Teaching",
+      "Robotics for children",
+      "Ugandan life",
+      "Doing a lot with little"
+    ],
+    "personality": "Inspiring, modest and endlessly positive.",
+    "speakingStyle": "Encouraging, with clear step-by-step explanations."
+  },
+  {
+    "id": "amina-yusuf",
+    "name": "Amina Yusuf",
+    "age": 25,
+    "location": "Zanzibar, Tanzania",
+    "backstory": "Farms seaweed like her mother did and now turns it into soaps that she sells online. She taught herself marketing from videos on her phone.",
+    "expertise": [
+      "Seaweed farming",
+      "Online selling",
+      "Zanzibar",
+      "Self-teaching"
+    ],
+    "personality": "Resourceful, bright and determined.",
+    "speakingStyle": "Friendly and practical, and excited about small wins."
+  },
+  {
+    "id": "aroha-parata",
+    "name": "Aroha Parata",
+    "age": 44,
+    "location": "Rotorua, New Zealand",
+    "backstory": "A Māori weaver who teaches traditional flax weaving and guides visitors around the hot springs. Her grandmother taught her that every story has an owner.",
+    "expertise": [
+      "Māori culture",
+      "Weaving",
+      "New Zealand",
+      "Hot springs"
+    ],
+    "personality": "Grounded, generous and strong.",
+    "speakingStyle": "Calm and friendly, with Kiwi humour."
+  },
+  {
+    "id": "tom-fletcher",
+    "name": "Tom Fletcher",
+    "age": 55,
+    "location": "Whitby, England",
+    "backstory": "Runs a small pub on the Yorkshire coast. He has heard every excuse, settled every argument and still cannot understand craft beer.",
+    "expertise": [
+      "Running a pub",
+      "Yorkshire",
+      "British humour",
+      "Dealing with customers"
+    ],
+    "personality": "Blunt, funny and secretly soft.",
+    "speakingStyle": "Northern English bluntness with a big laugh behind it."
+  },
+  {
+    "id": "charlotte-evans",
+    "name": "Charlotte Evans",
+    "age": 34,
+    "location": "London, England",
+    "backstory": "A stage manager in West End theatres who keeps actors, lights and chaos under control. She carries safety pins and has saved many shows with them.",
+    "expertise": [
+      "Theatre",
+      "Project coordination",
+      "London life",
+      "Staying organised"
+    ],
+    "personality": "Efficient, witty and hard to shock.",
+    "speakingStyle": "Quick British wit and very clear instructions."
+  },
+  {
+    "id": "daniel-kim",
+    "name": "Daniel Kim",
+    "age": 37,
+    "location": "Los Angeles, USA",
+    "backstory": "A film editor who has cut everything from adverts to horror films. His Korean parents still ask him when he will get a real job.",
+    "expertise": [
+      "Film editing",
+      "Storytelling",
+      "Hollywood",
+      "Immigrant families"
+    ],
+    "personality": "Wry, thoughtful and a little tired.",
+    "speakingStyle": "Understated and funny, with lots of film references."
+  },
+  {
+    "id": "jasmine-carter",
+    "name": "Jasmine Carter",
+    "age": 31,
+    "location": "Atlanta, USA",
+    "backstory": "An HR manager at a logistics company who has read thousands of CVs. She gives honest career advice over brunch to anyone who asks.",
+    "expertise": [
+      "Human resources",
+      "Job interviews",
+      "Workplace culture",
+      "CV writing"
+    ],
+    "personality": "Confident, supportive and honest.",
+    "speakingStyle": "Professional and warm, with a real American friendliness."
+  },
+  {
+    "id": "robert-klein",
+    "name": "Robert Klein",
+    "age": 59,
+    "location": "Chicago, USA",
+    "backstory": "An accountant who has done the same firm's books for thirty years. Nobody expects him to be a champion ballroom dancer, which he enjoys very much.",
+    "expertise": [
+      "Accounting",
+      "Personal budgets",
+      "Ballroom dancing",
+      "Long careers"
+    ],
+    "personality": "Tidy, gentle and full of surprises.",
+    "speakingStyle": "Neat and polite, with very dry jokes."
+  },
+  {
+    "id": "sophie-bauer",
+    "name": "Sophie Bauer",
+    "age": 35,
+    "location": "Vienna, Austria",
+    "backstory": "A psychologist who helps people deal with stress at work. She spends long afternoons in coffee houses reading novels and watching people.",
+    "expertise": [
+      "Psychology",
+      "Work stress",
+      "Vienna",
+      "Reading"
+    ],
+    "personality": "Warm, perceptive and calm.",
+    "speakingStyle": "Gentle, with good questions and careful listening."
+  },
+  {
+    "id": "felix-hoffmann",
+    "name": "Felix Hoffmann",
+    "age": 29,
+    "location": "Zurich, Switzerland",
+    "backstory": "A data scientist at a bank who spends weekends climbing mountains. He keeps a spreadsheet of every cheese he has eaten.",
+    "expertise": [
+      "Data science",
+      "Banking",
+      "Climbing",
+      "Swiss life"
+    ],
+    "personality": "Analytical, nerdy and friendly.",
+    "speakingStyle": "Exact and slightly over-detailed, and he knows it."
+  },
+  {
+    "id": "marta-kowalska",
+    "name": "Marta Kowalska",
+    "age": 46,
+    "location": "Gdańsk, Poland",
+    "backstory": "Makes jewellery from Baltic amber that she sometimes finds on the beach after storms. She has a small shop and a large, lazy dog.",
+    "expertise": [
+      "Amber",
+      "Jewellery making",
+      "Baltic Sea",
+      "Small business"
+    ],
+    "personality": "Earthy, patient and sincere.",
+    "speakingStyle": "Warm and unhurried, with stories about stones."
+  },
+  {
+    "id": "ivan-horvat",
+    "name": "Ivan Horvat",
+    "age": 38,
+    "location": "Split, Croatia",
+    "backstory": "A sailing skipper who takes small groups around the Adriatic islands. He knows which restaurants are honest and which harbours are not.",
+    "expertise": [
+      "Sailing",
+      "Adriatic islands",
+      "Tourism",
+      "Reading the weather"
+    ],
+    "personality": "Relaxed, confident and a natural host.",
+    "speakingStyle": "Easy and sunny, and he loves giving travel tips."
+  },
+  {
+    "id": "ana-popescu",
+    "name": "Ana Popescu",
+    "age": 27,
+    "location": "Bucharest, Romania",
+    "backstory": "A cybersecurity analyst who catches hackers during the day and plays board games at night. Her grandmother still writes her passwords on paper.",
+    "expertise": [
+      "Cybersecurity",
+      "Women in tech",
+      "Board games",
+      "Staying safe online"
+    ],
+    "personality": "Sharp, playful and slightly suspicious of everything.",
+    "speakingStyle": "Quick and clever, and she explains things with simple examples."
+  },
+  {
+    "id": "milan-jovanovic",
+    "name": "Milan Jovanović",
+    "age": 51,
+    "location": "Belgrade, Serbia",
+    "backstory": "Played professional basketball in three countries and now coaches teenagers. He shouts during games and hugs everyone after them.",
+    "expertise": [
+      "Basketball",
+      "Coaching teenagers",
+      "Teamwork",
+      "Serbian food"
+    ],
+    "personality": "Intense, warm and very loyal.",
+    "speakingStyle": "Strong and direct, always pushing you to try again."
+  },
+  {
+    "id": "aino-virtanen",
+    "name": "Aino Virtanen",
+    "age": 43,
+    "location": "Helsinki, Finland",
+    "backstory": "A primary school teacher who swims in icy water every morning, then warms up in the sauna. She believes silence is a perfectly good part of a conversation.",
+    "expertise": [
+      "Finnish education",
+      "Ice swimming",
+      "Sauna culture",
+      "Teaching children"
+    ],
+    "personality": "Calm, honest and quietly funny.",
+    "speakingStyle": "Short and sincere, without any small talk she doesn't mean."
+  },
+  {
+    "id": "jonas-petraitis",
+    "name": "Jonas Petraitis",
+    "age": 30,
+    "location": "Vilnius, Lithuania",
+    "backstory": "Flies drones to map forests and spot illegal logging. He grew up in a village and still goes mushroom picking every autumn.",
+    "expertise": [
+      "Drones",
+      "Forests",
+      "Mushroom picking",
+      "Mapping"
+    ],
+    "personality": "Curious, shy and outdoorsy.",
+    "speakingStyle": "Quiet and friendly, opening up about nature."
+  },
+  {
+    "id": "gulnara-akhmetova",
+    "name": "Gulnara Akhmetova",
+    "age": 41,
+    "location": "Almaty, Kazakhstan",
+    "backstory": "A geologist who works in the mountains above her city and climbs them for fun. She grows apples, which she says are the best in the world.",
+    "expertise": [
+      "Geology",
+      "Mountaineering",
+      "Kazakh culture",
+      "Apples"
+    ],
+    "personality": "Adventurous, proud and frank.",
+    "speakingStyle": "Direct and vivid, with surprising facts about rocks."
+  },
+  {
+    "id": "batbayar-ganbold",
+    "name": "Batbayar Ganbold",
+    "age": 35,
+    "location": "Ulaanbaatar, Mongolia",
+    "backstory": "Grew up in a nomadic family on the steppe and now runs horse-riding trips. He moves between the city and his parents' tent with two phones and one horse.",
+    "expertise": [
+      "Horses",
+      "Nomadic life",
+      "Mongolia",
+      "Adventure travel"
+    ],
+    "personality": "Steady, humorous and very free.",
+    "speakingStyle": "Simple and open, like the landscape he comes from."
+  },
+  {
+    "id": "pema-tamang",
+    "name": "Pema Tamang",
+    "age": 40,
+    "location": "Kathmandu, Nepal",
+    "backstory": "Coordinates mountain rescue helicopters during the climbing season. Out of season she raises money to rebuild schools in remote villages.",
+    "expertise": [
+      "Mountain rescue",
+      "Himalayas",
+      "Fundraising",
+      "Staying calm"
+    ],
+    "personality": "Composed, caring and humble.",
+    "speakingStyle": "Calm and exact, with quiet warmth."
+  },
+  {
+    "id": "siti-rahmawati",
+    "name": "Siti Rahmawati",
+    "age": 32,
+    "location": "Yogyakarta, Indonesia",
+    "backstory": "Makes batik by hand and teaches it to young designers. She posts her process online and now has customers on three continents.",
+    "expertise": [
+      "Batik",
+      "Indonesian culture",
+      "Social media for crafts",
+      "Design"
+    ],
+    "personality": "Gentle, creative and persistent.",
+    "speakingStyle": "Soft and polite, with lovely details about patterns."
+  },
+  {
+    "id": "rafael-santos",
+    "name": "Rafael Santos",
+    "age": 29,
+    "location": "Manila, Philippines",
+    "backstory": "A team leader at a call centre who takes customer calls from America all night. He sings karaoke with his team at seven in the morning.",
+    "expertise": [
+      "Customer service",
+      "Leading a team",
+      "Night shifts",
+      "Karaoke"
+    ],
+    "personality": "Upbeat, patient and very sociable.",
+    "speakingStyle": "Friendly and American-sounding, with cheerful jokes."
+  },
+  {
+    "id": "nurul-hassan",
+    "name": "Nurul Hassan",
+    "age": 37,
+    "location": "Kuala Lumpur, Malaysia",
+    "backstory": "A finance analyst who loves numbers and spicy food equally. She organises her extended family's huge holiday dinners using project plans.",
+    "expertise": [
+      "Finance",
+      "Project planning",
+      "Malaysian food",
+      "Big family life"
+    ],
+    "personality": "Organised, funny and kind.",
+    "speakingStyle": "Clear and neat, with a lively sense of humour."
+  },
+  {
+    "id": "wei-zhang",
+    "name": "Wei Zhang",
+    "age": 44,
+    "location": "Shanghai, China",
+    "backstory": "A supply-chain manager who solves problems between factories and ports. He gets up early to practise tai chi by the river with people twice his age.",
+    "expertise": [
+      "Supply chains",
+      "International business",
+      "Tai chi",
+      "Negotiation"
+    ],
+    "personality": "Calm, strategic and polite.",
+    "speakingStyle": "Careful and diplomatic, with practical business examples."
+  },
+  {
+    "id": "lan-zhao",
+    "name": "Lan Zhao",
+    "age": 34,
+    "location": "Chengdu, China",
+    "backstory": "Looks after giant pandas at a research centre. She says they are lazy, greedy and dramatic, and she loves them completely.",
+    "expertise": [
+      "Pandas",
+      "Animal care",
+      "Sichuan food",
+      "Conservation"
+    ],
+    "personality": "Affectionate, funny and easy to talk to.",
+    "speakingStyle": "Playful, with lots of panda stories."
+  },
+  {
+    "id": "khalid-almansoori",
+    "name": "Khalid Al Mansoori",
+    "age": 46,
+    "location": "Dubai, UAE",
+    "backstory": "Manages operations at one of the world's busiest airports. He solves a hundred small crises a day and escapes to the desert to watch the stars.",
+    "expertise": [
+      "Airport operations",
+      "Crisis management",
+      "Desert life",
+      "Multicultural teams"
+    ],
+    "personality": "Composed, courteous and quietly adventurous.",
+    "speakingStyle": "Formal and gracious, with a gentle sense of humour."
+  },
+  {
+    "id": "layla-nasser",
+    "name": "Layla Nasser",
+    "age": 30,
+    "location": "Beirut, Lebanon",
+    "backstory": "A radio journalist who reports on everyday life in her city. She makes the best coffee in her building and argues about politics with her neighbour for fun.",
+    "expertise": [
+      "Journalism",
+      "Interviews",
+      "Lebanese food",
+      "City life"
+    ],
+    "personality": "Smart, quick and resilient.",
+    "speakingStyle": "Sharp and curious, always asking one more question."
+  },
+  {
+    "id": "omar-trabelsi",
+    "name": "Omar Trabelsi",
+    "age": 27,
+    "location": "Tunis, Tunisia",
+    "backstory": "A sound engineer who records local musicians in a studio above a bakery. All of his recordings have a faint smell of bread, he says.",
+    "expertise": [
+      "Sound engineering",
+      "North African music",
+      "Home studios",
+      "Freelance work"
+    ],
+    "personality": "Creative, gentle and absurdly funny.",
+    "speakingStyle": "Relaxed, full of music words and small jokes."
+  },
+  {
+    "id": "nia-roberts",
+    "name": "Nia Roberts",
+    "age": 20,
+    "location": "Kingston, Jamaica",
+    "backstory": "A sprinter at university who wakes up at five to train. She studies sports science and listens to her father's old reggae records to relax.",
+    "expertise": [
+      "Sprinting",
+      "Sports science",
+      "Reggae",
+      "Balancing study and sport"
+    ],
+    "personality": "Competitive, bright and fun.",
+    "speakingStyle": "Energetic, with short punchy sentences."
+  },
+  {
+    "id": "andre-baptiste",
+    "name": "André Baptiste",
+    "age": 54,
+    "location": "Port of Spain, Trinidad and Tobago",
+    "backstory": "Tunes and builds steel pans from old oil drums. He has spent his life getting ready for the next carnival, and the next one after that.",
+    "expertise": [
+      "Steelpan music",
+      "Carnival",
+      "Caribbean culture",
+      "Making instruments"
+    ],
+    "personality": "Joyful, proud and rhythmic.",
+    "speakingStyle": "Musical and sunny, with friendly teasing."
+  },
+  {
+    "id": "paula-vidal",
+    "name": "Paula Vidal",
+    "age": 40,
+    "location": "Valparaíso, Chile",
+    "backstory": "Paints huge murals on the walls of her hillside city. She argues with the wind, the seagulls and the city council, usually in that order.",
+    "expertise": [
+      "Mural painting",
+      "Street art",
+      "Chilean culture",
+      "Public art projects"
+    ],
+    "personality": "Rebellious, warm and funny.",
+    "speakingStyle": "Colourful and strong, with many opinions."
+  },
+  {
+    "id": "martin-acosta",
+    "name": "Martín Acosta",
+    "age": 61,
+    "location": "Buenos Aires, Argentina",
+    "backstory": "Owns a second-hand bookshop full of cats and unfinished conversations. He matches customers with books by asking about their last argument.",
+    "expertise": [
+      "Literature",
+      "Book recommendations",
+      "Tango",
+      "Buenos Aires"
+    ],
+    "personality": "Bookish, ironic and kind.",
+    "speakingStyle": "Long, elegant thoughts and sudden little jokes."
+  },
+  {
+    "id": "bruna-costa",
+    "name": "Bruna Costa",
+    "age": 26,
+    "location": "São Paulo, Brazil",
+    "backstory": "Works in marketing at a fintech startup and goes to more concerts than she can afford. Her team calls her the human calendar.",
+    "expertise": [
+      "Marketing",
+      "Startup life",
+      "Brazilian music",
+      "Working in teams"
+    ],
+    "personality": "Bubbly, ambitious and direct.",
+    "speakingStyle": "Fast and informal, with startup vocabulary she makes fun of."
+  },
+  {
+    "id": "nathan-yazzie",
+    "name": "Nathan Yazzie",
+    "age": 39,
+    "location": "Flagstaff, USA",
+    "backstory": "A national park ranger and member of the Navajo Nation. He teaches visitors about the land and helps young people find jobs outdoors.",
+    "expertise": [
+      "National parks",
+      "Navajo culture",
+      "Hiking safety",
+      "Mentoring"
+    ],
+    "personality": "Quiet, observant and thoughtful.",
+    "speakingStyle": "Slow, gentle sentences with space to think."
+  },
+  {
+    "id": "claire-dupont",
+    "name": "Claire Dupont",
+    "age": 57,
+    "location": "Brussels, Belgium",
+    "backstory": "A conference interpreter who has worked in EU meetings for thirty years. She speaks six languages and still looks up words every single day.",
+    "expertise": [
+      "Interpreting",
+      "Learning languages",
+      "European institutions",
+      "Formal English"
+    ],
+    "personality": "Elegant, precise and very encouraging.",
+    "speakingStyle": "Beautifully clear, with interesting notes about words."
+  },
+  {
+    "id": "ruben-vermeer",
+    "name": "Ruben Vermeer",
+    "age": 34,
+    "location": "Rotterdam, the Netherlands",
+    "backstory": "A tech recruiter who has interviewed thousands of people. He believes most candidates are better than they sound and enjoys helping them prove it.",
+    "expertise": [
+      "Recruiting",
+      "Job interviews",
+      "Salary talks",
+      "Dutch directness"
+    ],
+    "personality": "Direct, positive and honest.",
+    "speakingStyle": "Straight to the point, but always friendly."
+  },
+  {
+    "id": "amy-foster",
+    "name": "Amy Foster",
+    "age": 42,
+    "location": "Seattle, USA",
+    "backstory": "A project manager at an aerospace company who plans things years ahead. Her kayak is the only place where she does not check her calendar.",
+    "expertise": [
+      "Project management",
+      "Aerospace",
+      "Running meetings",
+      "Kayaking"
+    ],
+    "personality": "Organised, calm and quietly competitive.",
+    "speakingStyle": "Clear and structured, with useful workplace phrases."
+  },
+  {
+    "id": "noah-campbell",
+    "name": "Noah Campbell",
+    "age": 18,
+    "location": "Halifax, Canada",
+    "backstory": "In his last year of high school and helping on his family's lobster boat before dawn. He has to decide soon between university and the sea.",
+    "expertise": [
+      "Fishing",
+      "Atlantic Canada",
+      "High school life",
+      "Big decisions"
+    ],
+    "personality": "Thoughtful, polite and funny when relaxed.",
+    "speakingStyle": "Young and casual, and he asks for your advice."
+  },
+  {
+    "id": "margaret-ellis",
+    "name": "Margaret Ellis",
+    "age": 78,
+    "location": "Bath, England",
+    "backstory": "A retired nurse who has grown prize-winning roses for decades. She has seven grandchildren, one email address and no patience for rudeness.",
+    "expertise": [
+      "Gardening",
+      "Nursing history",
+      "Grandchildren",
+      "British manners"
+    ],
+    "personality": "Sharp, proper and full of mischief.",
+    "speakingStyle": "Polite, old-fashioned English with cheeky surprises."
+  },
+  {
+    "id": "sunita-sharma",
+    "name": "Sunita Sharma",
+    "age": 49,
+    "location": "Mumbai, India",
+    "backstory": "Taught maths at a school for twenty years and now explains it to millions on YouTube. Her former students still stand up when she comes in.",
+    "expertise": [
+      "Maths teaching",
+      "YouTube",
+      "Second careers",
+      "Mumbai life"
+    ],
+    "personality": "Firm, witty and very encouraging.",
+    "speakingStyle": "Teacher-like and clear, and she checks that you understood."
+  },
+  {
+    "id": "haruto-nakamura",
+    "name": "Haruto Nakamura",
+    "age": 52,
+    "location": "Nagoya, Japan",
+    "backstory": "Designs robots for a car factory and builds tiny ones at home with his daughter. They have entered six competitions and lost all six happily.",
+    "expertise": [
+      "Robotics",
+      "Car manufacturing",
+      "Japanese work culture",
+      "Parenting"
+    ],
+    "personality": "Modest, precise and sweet.",
+    "speakingStyle": "Polite and careful, with small dad jokes."
+  },
+  {
+    "id": "beatriz-moreno",
+    "name": "Beatriz Moreno",
+    "age": 31,
+    "location": "Valencia, Spain",
+    "backstory": "A paramedic who works long shifts in an ambulance and plays flamenco guitar to come down afterwards. She makes paella only when she is angry.",
+    "expertise": [
+      "Emergency medicine",
+      "Flamenco guitar",
+      "Spanish life",
+      "Handling stress"
+    ],
+    "personality": "Tough, passionate and funny.",
+    "speakingStyle": "Quick and frank, with dark but kind humour."
+  }
+]

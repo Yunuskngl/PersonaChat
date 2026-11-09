@@ -1,0 +1,1102 @@
+[
+ {
+  "id": "interview-01",
+  "category": "Job interviews",
+  "channel": "Interview",
+  "title": "Tell me about yourself",
+  "counterpart": "Sarah Mitchell, a recruiter at a software company",
+  "situation": "You are in the first round of an interview for a junior developer role.",
+  "opening": "Thanks for joining today. To start, could you tell me a bit about yourself?",
+  "goal": "Give a short, confident introduction linked to the role."
+ },
+ {
+  "id": "interview-02",
+  "category": "Job interviews",
+  "channel": "Interview",
+  "title": "Why this company?",
+  "counterpart": "Daniel Reed, a hiring manager at a logistics firm",
+  "situation": "You are interviewing for an operations analyst position.",
+  "opening": "We get a lot of applicants. Why do you want to work here specifically?",
+  "goal": "Show real knowledge of the company and a clear motivation."
+ },
+ {
+  "id": "interview-03",
+  "category": "Job interviews",
+  "channel": "Interview",
+  "title": "Your biggest weakness",
+  "counterpart": "Priya Nair, an HR business partner",
+  "situation": "The interviewer wants an honest answer about a weakness.",
+  "opening": "Everyone has something to improve. What would you say is your biggest weakness?",
+  "goal": "Be honest and explain what you are doing to improve."
+ },
+ {
+  "id": "interview-04",
+  "category": "Job interviews",
+  "channel": "Interview",
+  "title": "A conflict at work",
+  "counterpart": "Tom Becker, an engineering lead",
+  "situation": "A behavioural interview for a mid-level position.",
+  "opening": "Tell me about a time you disagreed with a colleague. What happened?",
+  "goal": "Describe the situation, your action and the result."
+ },
+ {
+  "id": "interview-05",
+  "category": "Job interviews",
+  "channel": "Interview",
+  "title": "A failed project",
+  "counterpart": "Helen Carter, a project director",
+  "situation": "The interviewer is testing how you handle failure.",
+  "opening": "Can you describe a project that did not go as planned?",
+  "goal": "Take responsibility and explain what you learned."
+ },
+ {
+  "id": "interview-06",
+  "category": "Job interviews",
+  "channel": "Interview",
+  "title": "Salary expectations",
+  "counterpart": "Mark Evans, a talent acquisition specialist",
+  "situation": "The final stage of a hiring process.",
+  "opening": "Before we go further, what are your salary expectations for this role?",
+  "goal": "Give a sensible range politely and justify it."
+ },
+ {
+  "id": "interview-07",
+  "category": "Job interviews",
+  "channel": "Interview",
+  "title": "Why are you leaving?",
+  "counterpart": "Anna Kowalski, a recruiter",
+  "situation": "You currently work at another company.",
+  "opening": "You have been in your current job for two years. Why do you want to leave?",
+  "goal": "Stay positive and avoid criticising your employer."
+ },
+ {
+  "id": "interview-08",
+  "category": "Job interviews",
+  "channel": "Interview",
+  "title": "Explain a technical idea",
+  "counterpart": "Raj Patel, a product manager",
+  "situation": "You must explain something technical to a non-technical person.",
+  "opening": "Pretend I know nothing about software. What does an API do?",
+  "goal": "Explain clearly with a simple example."
+ },
+ {
+  "id": "interview-09",
+  "category": "Job interviews",
+  "channel": "Interview",
+  "title": "Working under pressure",
+  "counterpart": "Lisa Grant, an operations manager",
+  "situation": "The role has tight deadlines.",
+  "opening": "This team has very busy periods. How do you deal with pressure?",
+  "goal": "Give a specific example of staying organised."
+ },
+ {
+  "id": "interview-10",
+  "category": "Job interviews",
+  "channel": "Interview",
+  "title": "Career plans",
+  "counterpart": "Oliver Hughes, a department head",
+  "situation": "The company wants people who will stay.",
+  "opening": "Where do you see yourself in five years?",
+  "goal": "Show ambition that fits the company."
+ },
+ {
+  "id": "interview-11",
+  "category": "Job interviews",
+  "channel": "Interview",
+  "title": "Questions for the interviewer",
+  "counterpart": "Emma Wilson, a team lead",
+  "situation": "The interview is nearly finished.",
+  "opening": "That's everything from my side. Do you have any questions for me?",
+  "goal": "Ask two or three thoughtful questions."
+ },
+ {
+  "id": "manager-01",
+  "category": "Requests from your manager",
+  "channel": "Teams",
+  "title": "Urgent report for tomorrow",
+  "counterpart": "Karen Lewis, your manager",
+  "situation": "It is 4:30 pm and your manager needs a report you have not started.",
+  "opening": "Hi, I need the Q3 sales report by 9 tomorrow. Can you do that?",
+  "goal": "Agree or negotiate a realistic plan."
+ },
+ {
+  "id": "manager-02",
+  "category": "Requests from your manager",
+  "channel": "Teams",
+  "title": "Extra project on a full week",
+  "counterpart": "Greg Foster, your manager",
+  "situation": "You already have too much work this week.",
+  "opening": "Could you also take over the supplier review? Should only be a few days.",
+  "goal": "Push back politely and propose priorities."
+ },
+ {
+  "id": "manager-03",
+  "category": "Requests from your manager",
+  "channel": "Teams",
+  "title": "Weekend work",
+  "counterpart": "Nina Rossi, your manager",
+  "situation": "A release is at risk and you have family plans on Saturday.",
+  "opening": "We might need you on Saturday for the release. You're ok with that, right?",
+  "goal": "Decline or set limits professionally."
+ },
+ {
+  "id": "manager-04",
+  "category": "Requests from your manager",
+  "channel": "Teams",
+  "title": "Status update",
+  "counterpart": "Paul Adams, your manager",
+  "situation": "Your task is two days behind.",
+  "opening": "Quick one: where are we with the dashboard? I expected it on Monday.",
+  "goal": "Explain the delay honestly and give a new date."
+ },
+ {
+  "id": "manager-05",
+  "category": "Requests from your manager",
+  "channel": "Teams",
+  "title": "Asking for feedback",
+  "counterpart": "Claire Dubois, your manager",
+  "situation": "You want to know how you are doing after your first three months.",
+  "opening": "You wanted to chat? I've got five minutes now.",
+  "goal": "Ask clearly for specific feedback."
+ },
+ {
+  "id": "manager-06",
+  "category": "Requests from your manager",
+  "channel": "Teams",
+  "title": "Requesting time off",
+  "counterpart": "Steve Morgan, your manager",
+  "situation": "You need a week off during a busy month.",
+  "opening": "Hey, you mentioned you wanted to ask me something about next month?",
+  "goal": "Request leave and offer a handover plan."
+ },
+ {
+  "id": "manager-07",
+  "category": "Requests from your manager",
+  "channel": "Teams",
+  "title": "Disagreeing with a decision",
+  "counterpart": "Julia Stone, your manager",
+  "situation": "Your manager chose a tool you think is wrong.",
+  "opening": "We're moving everything to the new tracker next week. Any concerns?",
+  "goal": "Disagree respectfully with reasons."
+ },
+ {
+  "id": "manager-08",
+  "category": "Requests from your manager",
+  "channel": "Teams",
+  "title": "Mistake you made",
+  "counterpart": "Ben Clarke, your manager",
+  "situation": "You sent wrong numbers to a client.",
+  "opening": "The client says the figures you sent are wrong. What happened?",
+  "goal": "Own the mistake and propose a fix."
+ },
+ {
+  "id": "manager-09",
+  "category": "Requests from your manager",
+  "channel": "Teams",
+  "title": "Asking for a raise",
+  "counterpart": "Marta Silva, your manager",
+  "situation": "You have taken on more responsibility this year.",
+  "opening": "Thanks for booking this. What did you want to talk about?",
+  "goal": "Make a clear case for a pay rise."
+ },
+ {
+  "id": "manager-10",
+  "category": "Requests from your manager",
+  "channel": "Teams",
+  "title": "Delegated task is unclear",
+  "counterpart": "Alan Wright, your manager",
+  "situation": "You received vague instructions.",
+  "opening": "Please clean up the customer data when you get a chance.",
+  "goal": "Ask clarifying questions about scope and deadline."
+ },
+ {
+  "id": "manager-11",
+  "category": "Requests from your manager",
+  "channel": "Teams",
+  "title": "New priorities",
+  "counterpart": "Sophie Martin, your manager",
+  "situation": "Priorities changed and your current work may be dropped.",
+  "opening": "Leadership changed direction. Please stop the mobile work for now.",
+  "goal": "Clarify what happens next and what to do with your work."
+ },
+ {
+  "id": "team-01",
+  "category": "Colleagues and teamwork",
+  "channel": "Teams",
+  "title": "Colleague misses a deadline",
+  "counterpart": "Jake Turner, a teammate",
+  "situation": "Jake's late part is blocking your work.",
+  "opening": "Sorry, I haven't finished my part yet. Been crazy busy.",
+  "goal": "Be firm but friendly and agree a new time."
+ },
+ {
+  "id": "team-02",
+  "category": "Colleagues and teamwork",
+  "channel": "Teams",
+  "title": "Credit for your work",
+  "counterpart": "Rachel Green, a colleague",
+  "situation": "Rachel presented your idea as her own.",
+  "opening": "Great meeting, right? People loved the idea!",
+  "goal": "Raise the issue calmly."
+ },
+ {
+  "id": "team-03",
+  "category": "Colleagues and teamwork",
+  "channel": "Teams",
+  "title": "Too many messages",
+  "counterpart": "Liam Scott, a colleague",
+  "situation": "Liam interrupts your focus time all day.",
+  "opening": "Hey, got a sec? Another quick question.",
+  "goal": "Set a boundary politely."
+ },
+ {
+  "id": "team-04",
+  "category": "Colleagues and teamwork",
+  "channel": "Teams",
+  "title": "Asking for help",
+  "counterpart": "Mei Lin, a senior colleague",
+  "situation": "You are stuck on a task and need help.",
+  "opening": "Hi! You pinged me earlier, what's up?",
+  "goal": "Explain the problem clearly and ask for help."
+ },
+ {
+  "id": "team-05",
+  "category": "Colleagues and teamwork",
+  "channel": "Teams",
+  "title": "Covering for a colleague",
+  "counterpart": "Omar Hassan, a teammate",
+  "situation": "Omar is going on holiday and wants you to cover his work.",
+  "opening": "Could you look after my tickets next week while I'm away?",
+  "goal": "Agree on conditions and get the details."
+ },
+ {
+  "id": "team-06",
+  "category": "Colleagues and teamwork",
+  "channel": "Teams",
+  "title": "Disagreement on approach",
+  "counterpart": "Eva Novak, a designer",
+  "situation": "You and Eva want different solutions.",
+  "opening": "I really think we should remove the filter page. It's confusing.",
+  "goal": "Discuss and reach a compromise."
+ },
+ {
+  "id": "team-07",
+  "category": "Colleagues and teamwork",
+  "channel": "Teams",
+  "title": "Onboarding a new hire",
+  "counterpart": "Chris Bell, a new colleague",
+  "situation": "Chris just joined and you are their buddy.",
+  "opening": "Hi, I just started. Where should I begin? Everything's a bit overwhelming.",
+  "goal": "Welcome them and give clear first steps."
+ },
+ {
+  "id": "team-08",
+  "category": "Colleagues and teamwork",
+  "channel": "Teams",
+  "title": "Reviewing weak work",
+  "counterpart": "Noah Price, a junior colleague",
+  "situation": "Noah's document has many problems.",
+  "opening": "Did you get a chance to read my draft? Is it good to go?",
+  "goal": "Give honest, kind, useful feedback."
+ },
+ {
+  "id": "team-09",
+  "category": "Colleagues and teamwork",
+  "channel": "Teams",
+  "title": "Rude comment in chat",
+  "counterpart": "Vanessa Cole, a colleague",
+  "situation": "Vanessa was sarcastic about your work in a group chat.",
+  "opening": "It was just a joke, why are you messaging me about it?",
+  "goal": "Explain how it landed without escalating."
+ },
+ {
+  "id": "team-10",
+  "category": "Colleagues and teamwork",
+  "channel": "Teams",
+  "title": "Sharing bad news",
+  "counterpart": "Peter Young, a teammate",
+  "situation": "Peter's feature will not make the release.",
+  "opening": "So is my feature definitely in Friday's release?",
+  "goal": "Deliver the bad news clearly and kindly."
+ },
+ {
+  "id": "team-11",
+  "category": "Colleagues and teamwork",
+  "channel": "Teams",
+  "title": "Swapping shifts",
+  "counterpart": "Aisha Khan, a colleague",
+  "situation": "You need to swap Thursday's on-call shift.",
+  "opening": "You wanted to talk about the on-call schedule?",
+  "goal": "Ask for the swap and offer something back."
+ },
+ {
+  "id": "complaint-01",
+  "category": "Client complaints",
+  "channel": "Email",
+  "title": "Late delivery",
+  "counterpart": "Robert Hayes, a client",
+  "situation": "A shipment arrived eight days late.",
+  "opening": "Our order arrived more than a week late and our production stopped. This is unacceptable.",
+  "goal": "Apologise, explain and offer a solution."
+ },
+ {
+  "id": "complaint-02",
+  "category": "Client complaints",
+  "channel": "Email",
+  "title": "Wrong invoice",
+  "counterpart": "Linda Fraser, a client's accountant",
+  "situation": "An invoice has the wrong amount.",
+  "opening": "Invoice 4471 is 2,300 euros higher than the agreed price. Please explain.",
+  "goal": "Investigate and correct it professionally."
+ },
+ {
+  "id": "complaint-03",
+  "category": "Client complaints",
+  "channel": "Email",
+  "title": "Service outage",
+  "counterpart": "David Kim, a client IT manager",
+  "situation": "Your platform was down for three hours.",
+  "opening": "Our team lost half a day because of your outage. What are you doing about it?",
+  "goal": "Take responsibility and describe next steps."
+ },
+ {
+  "id": "complaint-04",
+  "category": "Client complaints",
+  "channel": "Email",
+  "title": "Poor quality",
+  "counterpart": "Maria Gonzalez, a procurement lead",
+  "situation": "A batch of products has defects.",
+  "opening": "About 15 percent of the last batch is damaged. We expected better.",
+  "goal": "Acknowledge and agree a replacement."
+ },
+ {
+  "id": "complaint-05",
+  "category": "Client complaints",
+  "channel": "Email",
+  "title": "Rude support agent",
+  "counterpart": "Hannah Weiss, a customer",
+  "situation": "A customer felt your colleague was rude.",
+  "opening": "Your support agent was very rude to me on the phone yesterday.",
+  "goal": "Calm the customer and follow up properly."
+ },
+ {
+  "id": "complaint-06",
+  "category": "Client complaints",
+  "channel": "Email",
+  "title": "Missed promise",
+  "counterpart": "George Allen, a key account",
+  "situation": "A feature promised for June is still missing.",
+  "opening": "We were told this feature would be ready in June. It's now September.",
+  "goal": "Be honest about the delay and rebuild trust."
+ },
+ {
+  "id": "complaint-07",
+  "category": "Client complaints",
+  "channel": "Email",
+  "title": "Threat to cancel",
+  "counterpart": "Isabel Ortiz, a client director",
+  "situation": "An unhappy client wants to leave.",
+  "opening": "We are seriously thinking about ending the contract at the end of the month.",
+  "goal": "Find out why and try to keep the client."
+ },
+ {
+  "id": "complaint-08",
+  "category": "Client complaints",
+  "channel": "Email",
+  "title": "Refund demand",
+  "counterpart": "Kevin Doyle, a customer",
+  "situation": "A customer wants money back outside the refund period.",
+  "opening": "I want a full refund. I don't care what your policy says.",
+  "goal": "Say no kindly or offer an alternative."
+ },
+ {
+  "id": "complaint-09",
+  "category": "Client complaints",
+  "channel": "Email",
+  "title": "Data error in a report",
+  "counterpart": "Fatima Rahman, a client analyst",
+  "situation": "A report you delivered contains an error.",
+  "opening": "The March totals in your report don't match our records at all.",
+  "goal": "Check the facts and propose a correction."
+ },
+ {
+  "id": "complaint-10",
+  "category": "Client complaints",
+  "channel": "Email",
+  "title": "Repeated problem",
+  "counterpart": "Walter Schmidt, a client",
+  "situation": "The same bug came back for the third time.",
+  "opening": "This is the third time we've reported this problem. Why is it back?",
+  "goal": "Show accountability and a real fix."
+ },
+ {
+  "id": "complaint-11",
+  "category": "Client complaints",
+  "channel": "Email",
+  "title": "Billing confusion",
+  "counterpart": "Grace Taylor, a small business owner",
+  "situation": "A customer does not understand the new pricing.",
+  "opening": "My bill went up and nobody told me. What's going on?",
+  "goal": "Explain clearly and resolve the concern."
+ },
+ {
+  "id": "project-01",
+  "category": "Project deadlines",
+  "channel": "Meeting",
+  "title": "Project is behind",
+  "counterpart": "Martin Lee, a project sponsor",
+  "situation": "Your project is three weeks behind schedule.",
+  "opening": "I'll be direct: why are we three weeks behind?",
+  "goal": "Explain causes and present a recovery plan."
+ },
+ {
+  "id": "project-02",
+  "category": "Project deadlines",
+  "channel": "Meeting",
+  "title": "Scope creep",
+  "counterpart": "Olivia Brooks, a stakeholder",
+  "situation": "A stakeholder keeps adding requirements.",
+  "opening": "Oh, and we also need it to export to PDF. That's easy, right?",
+  "goal": "Protect the scope and discuss the trade-off."
+ },
+ {
+  "id": "project-03",
+  "category": "Project deadlines",
+  "channel": "Meeting",
+  "title": "Budget overrun",
+  "counterpart": "Henry Clark, a finance controller",
+  "situation": "The project will exceed its budget by 12 percent.",
+  "opening": "Your forecast shows a 12 percent overrun. How did this happen?",
+  "goal": "Justify and propose options."
+ },
+ {
+  "id": "project-04",
+  "category": "Project deadlines",
+  "channel": "Meeting",
+  "title": "Risk nobody sees",
+  "counterpart": "Tara Singh, a programme manager",
+  "situation": "You see a serious risk in the plan.",
+  "opening": "Everything is green on my side. Anything to flag before we report up?",
+  "goal": "Raise the risk clearly."
+ },
+ {
+  "id": "project-05",
+  "category": "Project deadlines",
+  "channel": "Meeting",
+  "title": "Dependency on another team",
+  "counterpart": "Felix Braun, another team's lead",
+  "situation": "You are blocked by another team.",
+  "opening": "We're not going to get to your request this sprint, sorry.",
+  "goal": "Explain the impact and negotiate."
+ },
+ {
+  "id": "project-06",
+  "category": "Project deadlines",
+  "channel": "Meeting",
+  "title": "Kickoff meeting",
+  "counterpart": "Laura Bennett, a client project lead",
+  "situation": "You are opening a new project with a client.",
+  "opening": "Shall we begin? Maybe you can walk us through how this will work.",
+  "goal": "Introduce goals, timeline and roles."
+ },
+ {
+  "id": "project-07",
+  "category": "Project deadlines",
+  "channel": "Meeting",
+  "title": "Unrealistic deadline",
+  "counterpart": "Victor Hall, a sales director",
+  "situation": "Sales promised a date you cannot meet.",
+  "opening": "I told the customer we'd go live by the 15th. That works, doesn't it?",
+  "goal": "Reset expectations without blaming."
+ },
+ {
+  "id": "project-08",
+  "category": "Project deadlines",
+  "channel": "Meeting",
+  "title": "Team member leaves",
+  "counterpart": "Diana Ross, a department head",
+  "situation": "A key developer resigned during the project.",
+  "opening": "I heard Marco resigned. What does that mean for your delivery?",
+  "goal": "Assess the impact and give a plan."
+ },
+ {
+  "id": "project-09",
+  "category": "Project deadlines",
+  "channel": "Meeting",
+  "title": "Go or no-go",
+  "counterpart": "Ian Fletcher, an operations director",
+  "situation": "You must recommend whether to launch.",
+  "opening": "It's your call to recommend. Do we launch on Monday or not?",
+  "goal": "Give a clear recommendation with reasons."
+ },
+ {
+  "id": "project-10",
+  "category": "Project deadlines",
+  "channel": "Meeting",
+  "title": "Status to executives",
+  "counterpart": "Monica Vargas, a vice president",
+  "situation": "You have two minutes with a senior leader.",
+  "opening": "I've only got two minutes. Where are we, and what do you need from me?",
+  "goal": "Give a short, clear executive summary."
+ },
+ {
+  "id": "project-11",
+  "category": "Project deadlines",
+  "channel": "Meeting",
+  "title": "Lessons learned",
+  "counterpart": "Sam Whitaker, a scrum master",
+  "situation": "A retrospective after a difficult release.",
+  "opening": "Let's be honest. What went wrong with this release, in your view?",
+  "goal": "Be constructive and specific."
+ },
+ {
+  "id": "support-01",
+  "category": "Customer support",
+  "channel": "Teams",
+  "title": "Password reset trouble",
+  "counterpart": "Amy Parker, a customer",
+  "situation": "A customer cannot log in.",
+  "opening": "I've tried resetting my password three times and nothing arrives.",
+  "goal": "Troubleshoot step by step."
+ },
+ {
+  "id": "support-02",
+  "category": "Customer support",
+  "channel": "Teams",
+  "title": "How do I cancel?",
+  "counterpart": "Bruce Long, a customer",
+  "situation": "A customer wants to cancel a subscription.",
+  "opening": "How do I cancel my plan? I can't find it anywhere.",
+  "goal": "Help them, and ask why they are leaving."
+ },
+ {
+  "id": "support-03",
+  "category": "Customer support",
+  "channel": "Teams",
+  "title": "Feature request",
+  "counterpart": "Nadia Ali, a customer",
+  "situation": "A customer wants a feature you do not have.",
+  "opening": "Why can't I export my data to Excel? It seems so basic.",
+  "goal": "Be honest and offer a workaround."
+ },
+ {
+  "id": "support-04",
+  "category": "Customer support",
+  "channel": "Teams",
+  "title": "Angry first message",
+  "counterpart": "Roy Sanders, a customer",
+  "situation": "A customer opens the chat already angry.",
+  "opening": "THIS IS THE WORST APP I HAVE EVER USED. FIX IT NOW.",
+  "goal": "Stay calm and find the real issue."
+ },
+ {
+  "id": "support-05",
+  "category": "Customer support",
+  "channel": "Teams",
+  "title": "Shipping question",
+  "counterpart": "Julie Ward, a customer",
+  "situation": "A parcel seems to be lost.",
+  "opening": "My tracking hasn't changed in six days. Where is my order?",
+  "goal": "Reassure and investigate."
+ },
+ {
+  "id": "support-06",
+  "category": "Customer support",
+  "channel": "Teams",
+  "title": "Upgrade question",
+  "counterpart": "Tim Rogers, a customer",
+  "situation": "A customer is thinking about a paid plan.",
+  "opening": "What do I actually get if I pay for the Pro plan?",
+  "goal": "Explain the value without pushing too hard."
+ },
+ {
+  "id": "support-07",
+  "category": "Customer support",
+  "channel": "Teams",
+  "title": "Bug report",
+  "counterpart": "Carla Mendes, a customer",
+  "situation": "A customer reports a confusing bug.",
+  "opening": "When I click save, everything disappears. Help!",
+  "goal": "Collect the details you need."
+ },
+ {
+  "id": "support-08",
+  "category": "Customer support",
+  "channel": "Teams",
+  "title": "Language barrier",
+  "counterpart": "Hiro Sato, a customer",
+  "situation": "The customer's English is limited.",
+  "opening": "Sorry my English. Payment no working why?",
+  "goal": "Use simple, patient language."
+ },
+ {
+  "id": "support-09",
+  "category": "Customer support",
+  "channel": "Teams",
+  "title": "Duplicate charge",
+  "counterpart": "Ellen Fox, a customer",
+  "situation": "A customer was charged twice.",
+  "opening": "You charged my card twice this month!",
+  "goal": "Apologise and explain the refund process."
+ },
+ {
+  "id": "support-10",
+  "category": "Customer support",
+  "channel": "Teams",
+  "title": "Ask for a discount",
+  "counterpart": "Nick Harper, a customer",
+  "situation": "A customer asks for a special price.",
+  "opening": "Your competitor is cheaper. Can you give me 30 percent off?",
+  "goal": "Respond politely within your limits."
+ },
+ {
+  "id": "support-11",
+  "category": "Customer support",
+  "channel": "Teams",
+  "title": "Ending the conversation",
+  "counterpart": "Paula Reid, a customer",
+  "situation": "The problem is solved but the customer keeps chatting.",
+  "opening": "That worked, thank you! So, anything else I should know?",
+  "goal": "Close the chat warmly and professionally."
+ },
+ {
+  "id": "sales-01",
+  "category": "Sales and negotiation",
+  "channel": "Call",
+  "title": "Cold call",
+  "counterpart": "Michael Grant, a busy purchasing manager",
+  "situation": "You are calling a potential customer for the first time.",
+  "opening": "Hello, Michael speaking. Who is this? I've got a minute.",
+  "goal": "Introduce yourself and earn a follow-up."
+ },
+ {
+  "id": "sales-02",
+  "category": "Sales and negotiation",
+  "channel": "Call",
+  "title": "Price is too high",
+  "counterpart": "Sandra Moore, a buyer",
+  "situation": "A buyer likes the product but not the price.",
+  "opening": "It's a good product, but your price is simply too high.",
+  "goal": "Defend the value and negotiate."
+ },
+ {
+  "id": "sales-03",
+  "category": "Sales and negotiation",
+  "channel": "Call",
+  "title": "Asking for a longer payment term",
+  "counterpart": "Hans Vogel, a supplier",
+  "situation": "You want 60-day payment instead of 30.",
+  "opening": "Our standard terms are 30 days. Why would we change that?",
+  "goal": "Negotiate better terms."
+ },
+ {
+  "id": "sales-04",
+  "category": "Sales and negotiation",
+  "channel": "Call",
+  "title": "Product demo",
+  "counterpart": "Rebecca Shaw, a prospect",
+  "situation": "You are showing your product to a prospect.",
+  "opening": "Okay, I've got twenty minutes. Show me why this is better than what we use.",
+  "goal": "Focus on their needs."
+ },
+ {
+  "id": "sales-05",
+  "category": "Sales and negotiation",
+  "channel": "Call",
+  "title": "Competitor comparison",
+  "counterpart": "Luke Dawson, a prospect",
+  "situation": "A prospect is also talking to your competitor.",
+  "opening": "Your competitor offered us a free first year. Can you match that?",
+  "goal": "Respond without criticising the competitor."
+ },
+ {
+  "id": "sales-06",
+  "category": "Sales and negotiation",
+  "channel": "Call",
+  "title": "Closing a deal",
+  "counterpart": "Teresa Lopez, a decision maker",
+  "situation": "The deal is close but not signed.",
+  "opening": "We're nearly there, but I need to think about it a bit more.",
+  "goal": "Find the final objection and agree next steps."
+ },
+ {
+  "id": "sales-07",
+  "category": "Sales and negotiation",
+  "channel": "Call",
+  "title": "Renewing a contract",
+  "counterpart": "Alex Murray, an existing client",
+  "situation": "A contract renews next month.",
+  "opening": "Our contract ends next month. Honestly, we're not sure about renewing.",
+  "goal": "Understand concerns and propose renewal."
+ },
+ {
+  "id": "sales-08",
+  "category": "Sales and negotiation",
+  "channel": "Call",
+  "title": "Upselling",
+  "counterpart": "Janet Hill, a client",
+  "situation": "A happy client could benefit from more.",
+  "opening": "Everything's going well, so why did you want to call me?",
+  "goal": "Suggest an upgrade naturally."
+ },
+ {
+  "id": "sales-09",
+  "category": "Sales and negotiation",
+  "channel": "Call",
+  "title": "Delivery negotiation",
+  "counterpart": "Carlos Ruiz, a logistics partner",
+  "situation": "You need a faster delivery at the same price.",
+  "opening": "Next-day delivery will cost you extra, you know that.",
+  "goal": "Find a deal that works for both."
+ },
+ {
+  "id": "sales-10",
+  "category": "Sales and negotiation",
+  "channel": "Call",
+  "title": "Partnership proposal",
+  "counterpart": "Ingrid Larsen, a company founder",
+  "situation": "You are proposing a partnership.",
+  "opening": "Your email was interesting. What exactly do you have in mind?",
+  "goal": "Explain the benefit to both companies."
+ },
+ {
+  "id": "sales-11",
+  "category": "Sales and negotiation",
+  "channel": "Call",
+  "title": "Following up after silence",
+  "counterpart": "Brian Cole, a prospect",
+  "situation": "A prospect stopped replying.",
+  "opening": "Oh, hi. Sorry, I never got back to you, did I?",
+  "goal": "Restart the conversation without pressure."
+ },
+ {
+  "id": "hr-01",
+  "category": "HR and performance",
+  "channel": "Meeting",
+  "title": "Performance review",
+  "counterpart": "Catherine Ellis, your manager",
+  "situation": "Your annual review meeting.",
+  "opening": "Before I share my view, how do you think this year went?",
+  "goal": "Reflect honestly and give examples."
+ },
+ {
+  "id": "hr-02",
+  "category": "HR and performance",
+  "channel": "Meeting",
+  "title": "Receiving criticism",
+  "counterpart": "Stephen Ward, your manager",
+  "situation": "Your manager thinks your updates are unclear.",
+  "opening": "I've noticed your updates are often hard to follow.",
+  "goal": "Accept feedback and ask how to improve."
+ },
+ {
+  "id": "hr-03",
+  "category": "HR and performance",
+  "channel": "Meeting",
+  "title": "Reporting a problem",
+  "counterpart": "Naomi Fisher, an HR manager",
+  "situation": "A colleague regularly makes others uncomfortable.",
+  "opening": "Thanks for coming. You said you wanted to raise something in confidence?",
+  "goal": "Describe the issue factually."
+ },
+ {
+  "id": "hr-04",
+  "category": "HR and performance",
+  "channel": "Meeting",
+  "title": "Giving feedback to your report",
+  "counterpart": "Daniel Osei, someone on your team",
+  "situation": "You manage Daniel, who is often late.",
+  "opening": "You asked to see me? Is something wrong?",
+  "goal": "Be direct, fair and supportive."
+ },
+ {
+  "id": "hr-05",
+  "category": "HR and performance",
+  "channel": "Meeting",
+  "title": "Resignation",
+  "counterpart": "Amanda Blake, your manager",
+  "situation": "You have accepted another job.",
+  "opening": "You look serious. What's on your mind?",
+  "goal": "Resign professionally and offer a handover."
+ },
+ {
+  "id": "hr-06",
+  "category": "HR and performance",
+  "channel": "Meeting",
+  "title": "Promotion discussion",
+  "counterpart": "Richard Payne, a director",
+  "situation": "You want to move to a senior role.",
+  "opening": "You asked about the senior position. Why do you think you're ready?",
+  "goal": "Make your case with evidence."
+ },
+ {
+  "id": "hr-07",
+  "category": "HR and performance",
+  "channel": "Meeting",
+  "title": "Flexible working request",
+  "counterpart": "Louise Harris, an HR adviser",
+  "situation": "You want to work from home three days a week.",
+  "opening": "So you'd like to change your working pattern. Tell me more.",
+  "goal": "Explain why and how it would work."
+ },
+ {
+  "id": "hr-08",
+  "category": "HR and performance",
+  "channel": "Meeting",
+  "title": "Exit interview",
+  "counterpart": "Joan Reynolds, an HR partner",
+  "situation": "It is your last week.",
+  "opening": "We're sorry to see you go. What could we have done better?",
+  "goal": "Give honest, constructive feedback."
+ },
+ {
+  "id": "hr-09",
+  "category": "HR and performance",
+  "channel": "Meeting",
+  "title": "Team layoffs",
+  "counterpart": "Andrew Sharp, a worried teammate",
+  "situation": "There are rumours and you are the team lead.",
+  "opening": "People are saying there'll be layoffs. Do you know anything?",
+  "goal": "Be honest without sharing confidential details."
+ },
+ {
+  "id": "hr-10",
+  "category": "HR and performance",
+  "channel": "Meeting",
+  "title": "Mentoring session",
+  "counterpart": "Zoe Campbell, your mentee",
+  "situation": "You are mentoring a graduate.",
+  "opening": "I feel like I'm not learning fast enough. What should I do?",
+  "goal": "Encourage and give practical advice."
+ },
+ {
+  "id": "hr-11",
+  "category": "HR and performance",
+  "channel": "Meeting",
+  "title": "Probation meeting",
+  "counterpart": "Eric Holt, your manager",
+  "situation": "The end of your six-month probation.",
+  "opening": "Your probation ends this week. How have you found it?",
+  "goal": "Summarise your progress and ask about next steps."
+ },
+ {
+  "id": "remote-01",
+  "category": "Remote work and IT",
+  "channel": "Teams",
+  "title": "Internet problems",
+  "counterpart": "Jenny Walsh, your team lead",
+  "situation": "Your connection dropped during a meeting.",
+  "opening": "We lost you in the middle of your update. Everything ok?",
+  "goal": "Explain and catch up on what you missed."
+ },
+ {
+  "id": "remote-02",
+  "category": "Remote work and IT",
+  "channel": "Teams",
+  "title": "Laptop broke",
+  "counterpart": "IT Support agent Dan",
+  "situation": "Your laptop died before a presentation.",
+  "opening": "IT Support here. What seems to be the problem?",
+  "goal": "Explain the issue and its urgency."
+ },
+ {
+  "id": "remote-03",
+  "category": "Remote work and IT",
+  "channel": "Teams",
+  "title": "Time zone clash",
+  "counterpart": "Yuki Mori, a colleague in Tokyo",
+  "situation": "Meetings are always at a bad time for one of you.",
+  "opening": "Could we move the weekly sync? It's 11 pm for me.",
+  "goal": "Find a time that works for both."
+ },
+ {
+  "id": "remote-04",
+  "category": "Remote work and IT",
+  "channel": "Teams",
+  "title": "Security warning",
+  "counterpart": "Ahmed Saleh, a security officer",
+  "situation": "You clicked a suspicious link.",
+  "opening": "Our system flagged a click on a phishing link from your account.",
+  "goal": "Report exactly what happened."
+ },
+ {
+  "id": "remote-05",
+  "category": "Remote work and IT",
+  "channel": "Teams",
+  "title": "Camera on or off",
+  "counterpart": "Beth Lawson, your manager",
+  "situation": "You usually keep your camera off.",
+  "opening": "I've noticed your camera's always off in meetings. Any reason?",
+  "goal": "Explain and agree on an approach."
+ },
+ {
+  "id": "remote-06",
+  "category": "Remote work and IT",
+  "channel": "Teams",
+  "title": "Access request",
+  "counterpart": "Colin Reeve, a system admin",
+  "situation": "You need access to a restricted system.",
+  "opening": "You requested admin access to production. Why do you need it?",
+  "goal": "Justify the request clearly."
+ },
+ {
+  "id": "remote-07",
+  "category": "Remote work and IT",
+  "channel": "Teams",
+  "title": "Working across cultures",
+  "counterpart": "Pierre Lambert, a French colleague",
+  "situation": "Your direct message was taken badly.",
+  "opening": "Your last message felt quite aggressive, to be honest.",
+  "goal": "Clarify your intention and repair things."
+ },
+ {
+  "id": "remote-08",
+  "category": "Remote work and IT",
+  "channel": "Teams",
+  "title": "Software rollout",
+  "counterpart": "Gina Torres, an end user",
+  "situation": "You are helping a user with a new tool.",
+  "opening": "I hate this new system. The old one was so much better.",
+  "goal": "Listen and help them adapt."
+ },
+ {
+  "id": "remote-09",
+  "category": "Remote work and IT",
+  "channel": "Teams",
+  "title": "Forgot a meeting",
+  "counterpart": "Harry Stone, a colleague",
+  "situation": "You missed a meeting you had accepted.",
+  "opening": "We waited ten minutes for you this morning. Did you forget?",
+  "goal": "Apologise and reschedule."
+ },
+ {
+  "id": "remote-10",
+  "category": "Remote work and IT",
+  "channel": "Teams",
+  "title": "Sharing a file",
+  "counterpart": "Ruth Green, a colleague",
+  "situation": "A colleague cannot open your document.",
+  "opening": "That link says I don't have permission. Can you fix it?",
+  "goal": "Solve it and confirm."
+ },
+ {
+  "id": "remote-11",
+  "category": "Remote work and IT",
+  "channel": "Teams",
+  "title": "Pitching a process change",
+  "counterpart": "Owen Marsh, a team lead",
+  "situation": "You think the team has too many meetings.",
+  "opening": "You said you had an idea about our meetings?",
+  "goal": "Propose the change with benefits."
+ },
+ {
+  "id": "meeting-01",
+  "category": "Meetings and presentations",
+  "channel": "Meeting",
+  "title": "Interrupted while speaking",
+  "counterpart": "Frank Boyd, a talkative colleague",
+  "situation": "Frank keeps interrupting you.",
+  "opening": "Sorry, just to jump in here, I think what we really need is...",
+  "goal": "Take back the floor politely."
+ },
+ {
+  "id": "meeting-02",
+  "category": "Meetings and presentations",
+  "channel": "Meeting",
+  "title": "Presenting results",
+  "counterpart": "Patricia Dean, a director",
+  "situation": "You are presenting quarterly results.",
+  "opening": "Please go ahead. What are the main takeaways?",
+  "goal": "Present the key points clearly."
+ },
+ {
+  "id": "meeting-03",
+  "category": "Meetings and presentations",
+  "channel": "Meeting",
+  "title": "A hard question",
+  "counterpart": "Simon Nash, an executive",
+  "situation": "An executive challenges your numbers.",
+  "opening": "Where do these numbers come from? They look optimistic.",
+  "goal": "Answer confidently or admit what you do not know."
+ },
+ {
+  "id": "meeting-04",
+  "category": "Meetings and presentations",
+  "channel": "Meeting",
+  "title": "Running a meeting",
+  "counterpart": "Team members on a call",
+  "situation": "You are chairing and the meeting is going off topic.",
+  "opening": "That reminds me of the office move, has anyone heard about that?",
+  "goal": "Bring the meeting back on track."
+ },
+ {
+  "id": "meeting-05",
+  "category": "Meetings and presentations",
+  "channel": "Meeting",
+  "title": "Summarising actions",
+  "counterpart": "Kate Bradley, a colleague",
+  "situation": "A meeting is ending without clear outcomes.",
+  "opening": "Okay, I think we're out of time. What did we decide?",
+  "goal": "Summarise decisions and owners."
+ },
+ {
+  "id": "meeting-06",
+  "category": "Meetings and presentations",
+  "channel": "Meeting",
+  "title": "Asking for clarification",
+  "counterpart": "Bill Foster, a finance lead",
+  "situation": "You did not understand a point.",
+  "opening": "So with the accrual moved to Q4, we should be fine. Everyone clear?",
+  "goal": "Ask for clarification without embarrassment."
+ },
+ {
+  "id": "meeting-07",
+  "category": "Meetings and presentations",
+  "channel": "Meeting",
+  "title": "Pitching an idea",
+  "counterpart": "Angela Price, a head of product",
+  "situation": "You have one chance to pitch your idea.",
+  "opening": "You wanted five minutes. What's the idea?",
+  "goal": "Pitch the problem, solution and benefit."
+ },
+ {
+  "id": "meeting-08",
+  "category": "Meetings and presentations",
+  "channel": "Meeting",
+  "title": "Disagreeing in public",
+  "counterpart": "Howard King, a senior manager",
+  "situation": "A senior manager said something incorrect.",
+  "opening": "As we all know, customers don't use that feature at all.",
+  "goal": "Correct it tactfully."
+ },
+ {
+  "id": "meeting-09",
+  "category": "Meetings and presentations",
+  "channel": "Meeting",
+  "title": "Small talk before a call",
+  "counterpart": "Nora Jensen, a new client",
+  "situation": "Waiting for others to join a call.",
+  "opening": "Hi there! Looks like we're the first ones. How's your week going?",
+  "goal": "Make natural small talk."
+ },
+ {
+  "id": "meeting-10",
+  "category": "Meetings and presentations",
+  "channel": "Meeting",
+  "title": "Technical problems in a demo",
+  "counterpart": "Philip Cross, a client",
+  "situation": "Your demo has stopped working.",
+  "opening": "It seems to have frozen on my screen. Is that normal?",
+  "goal": "Handle it calmly and continue."
+ },
+ {
+  "id": "meeting-11",
+  "category": "Meetings and presentations",
+  "channel": "Meeting",
+  "title": "Thanking the team",
+  "counterpart": "Your project team",
+  "situation": "You are closing a successful project.",
+  "opening": "So that's it, the project is finished. Do you want to say a few words?",
+  "goal": "Give a short, sincere thank-you."
+ }
+]

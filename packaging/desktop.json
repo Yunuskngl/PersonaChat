@@ -1,0 +1,7 @@
+{
+  "Desktop": {
+    "Url": "http://localhost:5090",
+    "OpenBrowser": true,
+    "IdleMinutes": 5
+  }
+}

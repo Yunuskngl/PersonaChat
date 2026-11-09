@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PersonaChat.Core/PersonaChat.Core.csproj" />
+    <Project Path="src/PersonaChat.Web/PersonaChat.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PersonaChat.Tests/PersonaChat.Tests.csproj" />
+  </Folder>
+</Solution>
